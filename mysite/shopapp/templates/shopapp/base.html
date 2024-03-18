@@ -1,0 +1,57 @@
+<style>
+	 * {
+		 font-family: 'Roboto', sans-serif;
+	}
+</style>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+  <title>
+    {% block title %}
+      Base Title
+    {% endblock %}
+  </title>
+
+  <style>
+	{% block style %}
+		/* products-list*/
+		.products-list h3 {
+			margin: 0;
+			font-size: 20px;
+			color: #3d52fe;
+			text-decoration: underline;
+		}
+
+		a {
+			color: orangered;
+			text-decoration: none;
+		}
+		a:hover{
+			color: green;
+			text-decoration: underline;
+		}
+		* {
+            font-family: 'Roboto', sans-serif;
+            }
+		body{
+			text-align: start;
+		}
+
+      h1 {
+        color: #121212;
+      }
+    {% endblock %}
+  </style>
+</head>
+<body>
+
+{% block body %}
+  Base body
+{% endblock %}
+
+</body>
+</html>
