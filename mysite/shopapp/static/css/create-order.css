@@ -1,0 +1,9 @@
+/* create-order.css */
+
+.fixed-container-login form select {
+  width: 92%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+}

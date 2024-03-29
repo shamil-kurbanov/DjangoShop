@@ -1,5 +1,8 @@
-from django.contrib.auth.models import User
+from django.contrib.auth.models import User, Permission
+from django.contrib.contenttypes.models import ContentType
 from django.db import models
+from django.db.models.signals import post_migrate
+from django.dispatch import receiver
 
 
 class Product(models.Model):
@@ -14,6 +17,8 @@ class Product(models.Model):
     discount = models.SmallIntegerField(default=0)
     created_at = models.DateTimeField(auto_now_add=True)
     archived = models.BooleanField(default=False)
+    # a link between the Product model and the User model to indicate who created the product:
+    created_by = models.ForeignKey(User, on_delete=models.CASCADE)
 
     # @property
     # def description_short(self):
@@ -31,3 +36,12 @@ class Order(models.Model):
     created_at = models.DateTimeField(auto_now_add=True)
     user = models.ForeignKey(User, on_delete=models.PROTECT)
     products = models.ManyToManyField(Product, related_name="orders")
+
+@receiver(post_migrate)
+def create_custom_permissions(sender, **kwargs):
+    content_type = ContentType.objects.get_for_model(Product)
+    permission, _ = Permission.objects.get_or_create(
+        codename='can_create_product',
+        name='Can create product',
+        content_type=content_type,
+    )

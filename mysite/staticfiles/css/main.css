@@ -1,0 +1,70 @@
+        .services img {
+			width: 150px;
+		}
+
+        * {
+		 font-family: 'Roboto', sans-serif;
+		}
+		/* Header */
+		html, body{
+			margin: 0;
+			padding: 0;
+			background-color: #f6f7f9;
+		}
+
+		header{
+			height: 100px;
+			padding: 0 40px;
+		}
+		header > div{
+			display: flex;
+			justify-content: space-between;
+			align-items: center;
+			margin-right: 10px;
+		}
+		header > div > a {
+			margin-right: 20px;
+		}
+
+		header .header-links a {
+			margin-right: 25px;
+		}
+
+		header .fixed-container{
+			display: flex;
+			justify-content: space-between;
+			margin-bottom: 30px;
+		}
+
+		.fixed-container{
+			max-width: 1000px;
+			height: 100%;
+			margin-left: auto;
+			margin-right: auto;
+		}
+		/* products-list*/
+		.products-list h3 {
+			margin: 0;
+			font-size: 20px;
+			color: #3d52fe;
+			text-decoration: underline;
+		}
+
+		a {
+			color: orangered;
+			text-decoration: none;
+		}
+		a:hover{
+			color: green;
+			text-decoration: underline;
+		}
+		* {
+            font-family: 'Roboto', sans-serif;
+            }
+		body{
+			text-align: start;
+		}
+
+      h1 {
+        color: #121212;
+      }

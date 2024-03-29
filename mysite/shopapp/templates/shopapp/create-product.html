@@ -1,20 +1,24 @@
-{% extends 'shopapp/base.html' %}
+{% extends 'accounts/base.html' %}
 
 {% block title %}
 	Create product
 {% endblock %}
 
-{% block body %}
-	<h1>Create a new product</h1>
-    <div>
-        <form method="post">
-            {% csrf_token %}
-            {{ form.as_p }}
-            <button type="submit">Create</button>
-        </form>
-    </div>
-     <div>
-        <a href="{% url "shopapp:products_list" %}">Back to products list
-        </a>
-    </div>
+<section>
+    {% block body %}
+        <div class="fixed-container-login">
+            <h1>Create a new product</h1>
+            <div>
+                <form method="post">
+                    {% csrf_token %}
+                    {{ form.as_p }}
+                    <button type="submit">Create</button>
+                </form>
+            </div>
+             <div>
+                <a href="{% url "shopapp:products_list" %}">Back to products list
+                </a>
+            </div>
+        </div>
 {% endblock %}
+</section>

@@ -1,0 +1,52 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+    <title>
+        {% block title %}
+
+	    {% endblock %}
+    </title>
+    <link rel="stylesheet" href="{% static 'css/main.css' %}">
+    <link rel="stylesheet" href="{% static 'css/login.css' %}">
+    <link rel="stylesheet" href="{% static 'css/create-product.css' %}">
+    <link rel="stylesheet" href="{% static 'css/create-order.css' %}">
+
+</head>
+<body>
+<header>
+	<div class="fixed-container">
+		<div class="header-links">
+			<a href="{% url 'shopapp:index' %}">Home</a>
+			<a href="{% url 'shopapp:products_list' %}">Products</a>
+			<a href="{% url 'shopapp:orders_list' %}">Orders List</a>
+		</div>
+		<div class="header-links">
+			  {% if user.is_authenticated %}
+			        Hallo user
+				  <a href="{% url 'accounts:about-me' %}"><b>{{ user.username }}</b></a>
+			  {% else %}
+					Hallo!</b>
+			{% endif %}
+		</div>
+		<div class="header-links">
+			<a href="{% url 'accounts:login' %}">Login</a>
+			<a href="{% url 'accounts:register' %}">Registration</a>
+			<a href="{% url 'accounts:about-me' %}">About me</a>
+			<a href="{% url 'accounts:logout' %}">Logout</a>
+		</div>
+	</div>
+</header>
+
+<div class="fixed-container">
+{% block body %}
+
+{% endblock %}
+</div>
+{% block footer %}
+
+{% endblock %}
+</body>
+</html>

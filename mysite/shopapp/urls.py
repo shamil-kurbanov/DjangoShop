@@ -14,6 +14,7 @@ from .views import (
     OrderUpdateView,
     OrderCreateView,
     OrderDeleteView,
+    example_view,
 )
 
 app_name = "shopapp"
@@ -31,4 +32,5 @@ urlpatterns = [
     path("orders/<int:pk>/", OrderDetailView.as_view(), name="order_details"),
     path("orders/<int:pk>/update/", OrderUpdateView.as_view(), name="order_update"),
     path("orders/<int:pk>/confirm-delete/", OrderDeleteView.as_view(), name="order_delete"),
+    path('example/', example_view, name='example_url'),
 ]

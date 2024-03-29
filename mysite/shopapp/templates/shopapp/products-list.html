@@ -1,27 +1,47 @@
-{% extends 'shopapp/base.html' %}
-
+{% extends 'accounts/base.html' %}
+{% load static %}
+<link rel="stylesheet" href="{% static 'css/main.css' %}">
 {% block title %}
-  Products list
+  Products List
+{% endblock %}
+
+{% block extra_css %}
+
 {% endblock %}
 
 {% block body %}
-  <h1>Products:</h1>
-  {% if products %}
-    <div>
+  <div class="container">
+    <h1 class="">Products</h1>
+
+    <div class="row">
+      {% if products %}
         {% for product in products %}
-	        <div class="products-list">
-		        <h3><a href="{% url 'shopapp:product_details' pk=product.pk %}">{{ product.name }}</a></h3>
-	            <p>Price: {{ product.price }}</p>
-		        <p>Discount: {% firstof product.discount 'no discount' %}</p>
-	        </div>
+          <div>
+            <div>
+              <img src="{% static 'img/products/desktop.png' %}" alt="Product Image" class="product-image">
+              <div class="product-details">
+                <h5 class="card-title product-title">
+                  <a href="{% url 'shopapp:product_details' pk=product.pk %}" class="text-dark">{{ product.name }}</a>
+                </h5>
+                <p>Price: ${{ product.price }}</p>
+                <p>Discount: {% if product.discount %}${{ product.discount }}{% else %}No discount{% endif %}</p>
+              </div>
+            </div>
+          </div>
         {% endfor %}
+      {% else %}
+        <div class="">
+          <div class="" role="">
+            No products found.
+          </div>
+        </div>
+      {% endif %}
     </div>
-  {% else %}
-	  <h3>No products yet</h3>
-  {% endif %}
-	<div>
-		<a href="{% url 'shopapp:product_create' %}">
-            Create a new product
-        </a>
-    </div>
+
+    {% if perms.shopapp.can_create_product %}
+      <div class="btn-create-new">
+        <a href="{% url 'shopapp:product_create' %}" >Create a New Product</a>
+      </div>
+    {% endif %}
+  </div>
 {% endblock %}
