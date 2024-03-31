@@ -1,19 +1,25 @@
 {% extends 'accounts/base.html' %}
+{% load static %}
+<link rel="stylesheet" href="{% static 'css/main.css' %}">
 
 {% block title %}
     Update product
 {% endblock %}
 
+<section>
 {% block body %}
-    <h1>Update product</h1>
-    <div>
-        <form method="post">
-            {% csrf_token %}
-            {{ form.as_p }}
-            <button type="submit">Update</button>
-        </form>
-    </div>
-    <div>
-        <a href="{% url 'shopapp:product_details' pk=object.pk %}">Back to product # {{ object.pk }}</a>
-    </div>
+     <div class="fixed-container-login">
+        <h1>Update product</h1>
+        <div>
+            <form method="post" enctype="multipart/form-data">
+                {% csrf_token %}
+                {{ form.as_p }}
+                <button type="submit">Update</button>
+            </form>
+        </div>
+        <div class="back-to-list">
+            <a href="{% url 'shopapp:product_details' pk=object.pk %}">Back to product # {{ object.pk }}</a>
+        </div>
+     </div>
 {% endblock %}
+</section>

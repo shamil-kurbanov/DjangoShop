@@ -12,36 +12,39 @@
 {% block body %}
   <div class="container">
     <h1 class="">Products</h1>
-
-    <div class="row">
-      {% if products %}
-        {% for product in products %}
-          <div>
-            <div>
-              <img src="{% static 'img/products/desktop.png' %}" alt="Product Image" class="product-image">
-              <div class="product-details">
-                <h5 class="card-title product-title">
-                  <a href="{% url 'shopapp:product_details' pk=product.pk %}" class="text-dark">{{ product.name }}</a>
-                </h5>
-                <p>Price: ${{ product.price }}</p>
-                <p>Discount: {% if product.discount %}${{ product.discount }}{% else %}No discount{% endif %}</p>
+        <div class="row">
+          {% if products %}
+            {% for product in products %}
+              <div>
+                  <div>
+                    {% if product.preview %}
+                        <img src="{{ product.preview.url }}"  alt="{{ product.preview.name }}" class="product-image">
+                    {% endif %}
+                      <!--<img src="{% static 'img/products/desktop.png' %}" alt="Product Image" class="product-image"> -->
+                  <div class="product-details">
+                        <h5 class="card-title product-title">
+                          <a href="{% url 'shopapp:product_details' pk=product.pk %}" class="text-dark">{{ product.name }}</a>
+                        </h5>
+                        <p>Price: ${{ product.price }}</p>
+                        <p>Discount: {% if product.discount %}${{ product.discount }}{% else %}No discount{% endif %}</p>
+                  </div>
+                  </div>
               </div>
-            </div>
-          </div>
-        {% endfor %}
-      {% else %}
-        <div class="">
-          <div class="" role="">
-            No products found.
-          </div>
-        </div>
-      {% endif %}
-    </div>
+            {% endfor %}
 
-    {% if perms.shopapp.can_create_product %}
-      <div class="btn-create-new">
-        <a href="{% url 'shopapp:product_create' %}" >Create a New Product</a>
-      </div>
-    {% endif %}
+          {% else %}
+            <div class="">
+                <div class="" role="">
+                    No products found.
+                </div>
+            </div>
+          {% endif %}
+        </div>
+
+        {% if perms.shopapp.can_create_product %}
+          <div class="btn-create-new">
+            <a href="{% url 'shopapp:product_create' %}" >Create a New Product</a>
+          </div>
+        {% endif %}
   </div>
 {% endblock %}

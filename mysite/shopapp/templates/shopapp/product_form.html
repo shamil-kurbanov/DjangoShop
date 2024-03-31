@@ -1,4 +1,6 @@
 {% extends 'accounts/base.html' %}
+{% load static %}
+<link rel="stylesheet" href="{% static 'css/main.css' %}">
 
 {% block title %}
 	Create product
@@ -9,7 +11,7 @@
         <div class="fixed-container-login">
             <h1>Create a new product</h1>
             <div>
-                <form method="post">
+                <form method="post" enctype="multipart/form-data">
                     {% csrf_token %}
                     {{ form.as_p }}
                     <button type="submit">Create</button>

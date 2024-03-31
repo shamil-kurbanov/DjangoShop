@@ -1,27 +1,53 @@
 {% extends 'accounts/base.html' %}
+{% load static %}
+<link rel="stylesheet" href="{% static 'css/main.css' %}">
 
 {% block title %}
 	Product #{{ product.pk }}
 {% endblock %}
 
 {% block body %}
-	<h1><strong>{{ product.name }}</strong></h1>
-	<div>
-		<div>Description: <em>{{ product.description }}</em></div>
-		<div>Price: {{ product.price }}</div>
-		<div>Discount: {{ product.discount }}</div>
-		<div>Archived: {{ product.archived }}</div>
-	</div>
-	<div>
-		<div>
-		<div><br>
-			<a href="{% url 'shopapp:product_update' pk=product.pk %}">Update product</a>
-		</div>
-			<div><br>
-			<a href="{% url 'shopapp:product_delete' pk=product.pk %}">Archive product</a>
-		</div>
-		<div><br>
-			<a href="{% url 'shopapp:products_list' %}">Back to products List</a>
-		</div>
-	</div>
+    <div class="container">
+        <h1><strong>{{ product.name }}</strong></h1>
+        <div class="row">
+            {% if product.preview %}
+                <img src="{{ product.preview.url }}"  alt="{{ product.preview.name }}" class="product-image">
+            {% endif %}<br>
+            <div class="product-details">
+                Description:
+                 <h5 class="card-title product-title">
+                     <em>{{ product.description }}</em>
+                 </h5>
+            </div><br>
+
+            <div class="product-details">
+                Price:
+                <h5 class="card-title product-title">
+                     <em> {{ product.price }}</em>
+                </h5>
+            </div><br>
+
+            <div class="product-details">
+                Discount:
+                <h5 class="card-title product-title">
+                     <em>{{ product.discount }}</em>
+                </h5>
+            </div><br>
+            <div class="product-details">Archived:
+                <h5 class="card-title product-title">
+                     <em> {{ product.archived }}</em>
+                </h5>
+            </div><br>
+
+        </div>
+        <div>
+            <br><a href="{% url 'shopapp:product_update' pk=product.pk %}">Update product</a>
+        </div>
+        <div>
+            <br><a href="{% url 'shopapp:product_delete' pk=product.pk %}">Archive product</a>
+        </div>
+        <div>
+            <br><a href="{% url 'shopapp:products_list' %}">Back to products List</a>
+        </div>
+    </div>
 {% endblock %}

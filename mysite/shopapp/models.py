@@ -5,6 +5,10 @@ from django.db.models.signals import post_migrate
 from django.dispatch import receiver
 
 
+def product_preview_image(instance, filename):
+    return 'products/product_{pk}/preview/{filename}'.format(pk=instance.pk, filename=filename)
+
+
 class Product(models.Model):
     class Meta:
         ordering = ["name", "price"]
@@ -19,6 +23,7 @@ class Product(models.Model):
     archived = models.BooleanField(default=False)
     # a link between the Product model and the User model to indicate who created the product:
     created_by = models.ForeignKey(User, on_delete=models.CASCADE)
+    preview = models.ImageField(upload_to=product_preview_image, null=True, blank=True)
 
     # @property
     # def description_short(self):
@@ -36,6 +41,8 @@ class Order(models.Model):
     created_at = models.DateTimeField(auto_now_add=True)
     user = models.ForeignKey(User, on_delete=models.PROTECT)
     products = models.ManyToManyField(Product, related_name="orders")
+    receipt = models.FileField(null=True, upload_to="orders/receipts")
+
 
 @receiver(post_migrate)
 def create_custom_permissions(sender, **kwargs):
