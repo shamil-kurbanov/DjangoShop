@@ -1,6 +1,7 @@
 from django.contrib.auth.decorators import login_required, permission_required, user_passes_test
 from django.contrib.auth.forms import UserCreationForm
 from django.contrib.auth.mixins import LoginRequiredMixin
+from django.contrib.auth.models import User
 from django.contrib.auth.views import LogoutView, LoginView
 from django.http import HttpRequest, HttpResponse, JsonResponse
 from django.shortcuts import render, redirect
@@ -73,7 +74,6 @@ class UpdateProfileView(LoginRequiredMixin, View):
         return render(request, self.template_name, context)
 
 
-
 @user_passes_test(lambda u: u.is_superuser)
 def set_cookies_view(request: HttpRequest) -> HttpResponse:
     response = HttpResponse('Cookie set', content_type='text/plain', charset='utf-8', status=200)
@@ -104,23 +104,35 @@ class AboutMeView(TemplateView):
 
 
 class RegisterView(CreateView):
+    model = User
     form_class = UserCreationForm
-    template_name = "accounts/register.html"
-    success_url = reverse_lazy('accounts:about-me')
+    template_name = 'accounts/register.html'
+
+    def get_context_data(self, **kwargs):
+        context = super().get_context_data(**kwargs)
+        if self.request.POST:
+            context['profile_form'] = ProfileForm(self.request.POST)
+        else:
+            context['profile_form'] = ProfileForm()
+        return context
 
     def form_valid(self, form):
-        response = super().form_valid(form)
-        Profile.objects.create(user=self.object)
-        # user authentication:
-        username = form.cleaned_data.get('username')
-        password = form.cleaned_data.get('password1')
-        user = authenticate(
-            self.request,
-            username=username,
-            password=password)
-        # user login:
-        login(self.request, user)
-        return response
+        context = self.get_context_data()
+        profile_form = context['profile_form']
+
+        self.object = form.save()
+
+        if profile_form.is_valid():
+            profile = profile_form.save(commit=False)
+            profile.user = self.object
+            profile.save()
+        else:
+            return self.render_to_response(self.get_context_data(form=form))
+
+        return super().form_valid(form)
+
+    def get_success_url(self):
+        return reverse_lazy('accounts:login')
 
 
 class FooBarView(View):

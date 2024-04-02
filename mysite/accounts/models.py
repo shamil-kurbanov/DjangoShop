@@ -3,7 +3,7 @@ from django.db import models
 
 
 def user_directory_path(instance, filename):
-    return 'uploads/user_{0}/{1}'.format(instance.user.id, filename)
+    return 'users/user_{0}/{1}'.format(instance.user.id, filename)
 
 
 class Profile(models.Model):

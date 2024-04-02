@@ -13,6 +13,7 @@
     <option name="TEMPLATE_FOLDERS">
       <list>
         <option value="$MODULE_DIR$/mysite/myauth/templates" />
+        <option value="$MODULE_DIR$/mysite/shopapp/templates" />
       </list>
     </option>
   </component>
