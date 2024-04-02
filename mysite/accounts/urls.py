@@ -11,15 +11,15 @@ from .views import (login_view,
                     RegisterView,
                     FooBarView,
                     UpdateProfileView,
+                    UserListView,
+                    UserDetailView,
                     )
 
 app_name = 'accounts'
 
 urlpatterns = [
     # path('login/', login_view, name='login')
-    path(
-        'login/',
-        LoginView.as_view(template_name='accounts/login.html', redirect_authenticated_user=True),
+    path('login/',LoginView.as_view(template_name='accounts/login.html', redirect_authenticated_user=True),
         name='login'
     ),
     path('logout/', logout_view, name='logout'),
@@ -29,9 +29,13 @@ urlpatterns = [
 
     path('session/get/', get_session_view, name='session_get'),
     path('session/set/', set_session_view, name='session_set'),
+
+
     path("about-me/", AboutMeView.as_view(), name="about-me"),
     path("register/", RegisterView.as_view(), name="register"),
     path('update/', UpdateProfileView.as_view(), name='update_profile'),
+    path('users-list/', UserListView.as_view(), name='users_list'),
+    path('user-detail/<int:pk>/', UserDetailView.as_view(), name='user_detail'),
 
     path("foo-bar/", FooBarView.as_view(), name="foo-bar")
 ]

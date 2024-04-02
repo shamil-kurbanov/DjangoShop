@@ -10,8 +10,8 @@ from django.urls import reverse, reverse_lazy
 from django.views import View
 from django.contrib.auth.decorators import login_required
 
-from .models import Profile
-from django.views.generic import TemplateView, CreateView
+from .models import User
+from django.views.generic import TemplateView, CreateView, ListView, DetailView
 
 from .forms import UserForm, ProfileForm
 
@@ -104,31 +104,46 @@ class AboutMeView(TemplateView):
 
 
 class RegisterView(CreateView):
-    model = User
-    form_class = UserCreationForm
+    model = User  # Link to the model for the User, provided by Django's auth system.
+    form_class = UserCreationForm  # UserCreationForm is a form for creating a new user.
     template_name = 'accounts/register.html'
 
+    # This func returns the context to be used in the template.
     def get_context_data(self, **kwargs):
-        context = super().get_context_data(**kwargs)
+        context = super().get_context_data(**kwargs)  # Calls the base implementation first to get a context
+
+        # Check if it is a POST request (form submission)
         if self.request.POST:
+            # Create profile form with submitted data
             context['profile_form'] = ProfileForm(self.request.POST)
         else:
+            # Create a new blank profile form
             context['profile_form'] = ProfileForm()
+
+        # Return context dictionary
         return context
 
+    # Called when the UserCreationForm is submitted and passes validation
     def form_valid(self, form):
         context = self.get_context_data()
-        profile_form = context['profile_form']
+        profile_form = context['profile_form']  # Extract profile form from context
 
-        self.object = form.save()
+        self.object = form.save()  # Save the user form and get the created user instance
 
-        if profile_form.is_valid():
+        if profile_form.is_valid():  # Check if profile form data is valid
+
+            # Save the profile form without committing to database,
+            # so user can be associated first
             profile = profile_form.save(commit=False)
+            # Associate the profile form's user with the user form's user instance
             profile.user = self.object
+            # Save profile instance, which now includes user relation, to the database
             profile.save()
         else:
+            # If form is not valid, re-render the page with form error messages
             return self.render_to_response(self.get_context_data(form=form))
 
+        # Calls super's form_valid to finish things up
         return super().form_valid(form)
 
     def get_success_url(self):
@@ -138,3 +153,15 @@ class RegisterView(CreateView):
 class FooBarView(View):
     def get(self, request: HttpRequest) -> JsonResponse:
         return JsonResponse({'message': 'Hello', 'foo': 'bar', 'spam': 'eggs'})
+
+
+class UserListView(ListView):
+    model = User
+    template_name = 'accounts/users-list.html'
+    context_object_name = 'users'
+
+
+class UserDetailView(DetailView):
+    model = User
+    template_name = 'accounts/user-detail.html'
+    context_object_name = 'user'
