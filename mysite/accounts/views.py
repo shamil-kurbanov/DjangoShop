@@ -1,14 +1,18 @@
 from django.contrib.auth.decorators import login_required, permission_required, user_passes_test
 from django.contrib.auth.forms import UserCreationForm
+from django.contrib.auth.mixins import LoginRequiredMixin
 from django.contrib.auth.views import LogoutView, LoginView
 from django.http import HttpRequest, HttpResponse, JsonResponse
 from django.shortcuts import render, redirect
 from django.contrib.auth import authenticate, login, logout
 from django.urls import reverse, reverse_lazy
 from django.views import View
+from django.contrib.auth.decorators import login_required
 
 from .models import Profile
 from django.views.generic import TemplateView, CreateView
+
+from .forms import UserForm, ProfileForm
 
 
 def login_view(request: HttpRequest) -> HttpResponse:
@@ -36,6 +40,38 @@ def logout_view(request: HttpRequest) -> HttpResponse:
 
 class MyLogoutView(LogoutView):
     next_page = reverse_lazy('accounts:login')
+
+
+class UpdateProfileView(LoginRequiredMixin, View):
+    template_name = 'accounts/profile_update_form.html'
+
+    def get(self, request: HttpRequest) -> HttpResponse:
+        user_form = UserForm(instance=request.user)
+        profile_form = ProfileForm(instance=request.user.profile)
+
+        context = {
+            'user_form': user_form,
+            'profile_form': profile_form
+        }
+
+        return render(request, self.template_name, context)
+
+    def post(self, request: HttpRequest) -> HttpResponse:
+        user_form = UserForm(request.POST, instance=request.user)
+        profile_form = ProfileForm(request.POST, request.FILES, instance=request.user.profile)
+
+        if user_form.is_valid() and profile_form.is_valid():
+            user_form.save()
+            profile_form.save()
+            return redirect('accounts:login')
+
+        context = {
+            'user_form': user_form,
+            'profile_form': profile_form
+        }
+
+        return render(request, self.template_name, context)
+
 
 
 @user_passes_test(lambda u: u.is_superuser)

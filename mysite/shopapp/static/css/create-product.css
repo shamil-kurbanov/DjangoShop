@@ -25,6 +25,7 @@
 }
 
 .fixed-container-login form input[type="text"],
+.fixed-container-login form input[type="email"],
 .fixed-container-login form input[type="number"],
 .fixed-container-login form textarea,
 .back-to-list,

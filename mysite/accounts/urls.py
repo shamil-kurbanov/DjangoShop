@@ -10,6 +10,7 @@ from .views import (login_view,
                     AboutMeView,
                     RegisterView,
                     FooBarView,
+                    UpdateProfileView,
                     )
 
 app_name = 'accounts'
@@ -30,6 +31,7 @@ urlpatterns = [
     path('session/set/', set_session_view, name='session_set'),
     path("about-me/", AboutMeView.as_view(), name="about-me"),
     path("register/", RegisterView.as_view(), name="register"),
+    path('update/', UpdateProfileView.as_view(), name='update_profile'),
 
     path("foo-bar/", FooBarView.as_view(), name="foo-bar")
 ]

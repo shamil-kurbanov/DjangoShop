@@ -42,7 +42,7 @@
         </div>
 
         {% if perms.shopapp.can_create_product %}
-          <div class="btn-create-new">
+          <div class="back-to-list">
             <a href="{% url 'shopapp:product_create' %}" >Create a New Product</a>
           </div>
         {% endif %}

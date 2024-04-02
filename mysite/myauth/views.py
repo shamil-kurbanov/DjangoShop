@@ -2,6 +2,7 @@ from django.http import HttpRequest
 from django.shortcuts import render, redirect
 from django.contrib.auth import authenticate, login
 
+
 def login_view(request: HttpRequest):
     if request.method == 'GET':
         if request.user.is_authenticated:

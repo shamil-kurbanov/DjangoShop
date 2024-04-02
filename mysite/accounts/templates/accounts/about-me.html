@@ -1,24 +1,38 @@
 {% extends 'accounts/base.html' %}
+{% load static %}
+<link rel="stylesheet" href="{% static 'css/main.css' %}">
 
 {% block title %}
   About me
 {% endblock %}
 
 {% block body %}
-	<section>
-		<div class="fixed-container">
-			  <h1>User info</h1>
+	<div class="fixed-container">
+		<div class="row">
 			  {% if user.is_authenticated %}
-			    <h2>Details:</h2>
-			    <p>Username: <b>{{ user.username }}</b></p>
-			    <p>First name: {{ user.first_name }}</p>
-			    <p>Last name: {{ user.last_name }}</p>
-			    <p>Email: {{ user.email }}</p>
-			    <p>Bio: {{ user.profile.bio }}</p>
-			  {% else %}
-			    <h2>User is anonymous</h2>
-			  {% endif %}
+			   <h1>{{ user.first_name }} {{ user.last_name }}</h1>
+
+				<!-- Check if user has a profile picture -->
+				{% if user.profile.profile_picture %}
+                   <!-- Display user's picture -->
+                        <img src="{{ user.profile.profile_picture.url }}" alt="{{ user.username }}'s profile picture">
+						{% else %}
+				{% endif %}
+				  <!-- Display user's bio -->
+				  <div class="card-title product-details">
+					   <h4>Username: <b><em>{{ user.username }}</em></b>
+					   </h4>
+						<!-- Display user's bio -->
+					  <p>Bio: {{ user.profile.bio }}</p>
+
+					  <div class="back-to-list">
+						  <a href="{% url 'accounts:update_profile' %}">Edit account</a>
+					  </div>
+					  {% else %}
+					  <p>Please login to see this page</p>
+            </div><br>
+				{% endif %}
 		</div>
-	</section>
+	</div>
 
 {% endblock %}
