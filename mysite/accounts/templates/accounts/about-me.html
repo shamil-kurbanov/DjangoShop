@@ -29,15 +29,16 @@
 							  {% else %}
 								    <p>Email: <em>This user does not have an email</em></p>
 							  {% endif %}
-								<!-- Display user's bio -->
+						  <!-- Display user's bio -->
 							  {% if user.profile.bio %}
 							        <p>Bio: {{ user.profile.bio }}</p>
 							  {% else %}
 								    <p>Bio: <em>This user does not have a bio</em></p>
-							  <div class="back-to-list">
-								  <a href="{% url 'accounts:update_profile' %}">Edit account</a>
-							  </div>
-			                {% endif %}
+							  {% endif %}
+
+				            <div class="back-to-list">
+					            <a href="{% url 'accounts:update_profile' %}">Edit account</a>
+				            </div>
 				{% else %}
 					  <p>Please login to see this page</p>
             </div><br>

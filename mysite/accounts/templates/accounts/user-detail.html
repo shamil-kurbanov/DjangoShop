@@ -12,7 +12,6 @@
 			  {% if user.is_authenticated %}
 				  <h2>User Detail</h2>
 					   <h2>{{ user.first_name }} {{ user.last_name }}</h2>
-
 						<!-- Check if user has a profile picture -->
 						{% if user.profile.profile_picture %}
 		                   <!-- Display user's picture -->
@@ -22,9 +21,8 @@
 						{% endif %}
 						  <!-- Display user's bio -->
 						  <div class="card-title product-details">
-							   <h4>Username: <b><em>{{ user.username }}</em></b>
-							   </h4>
-						  <!-- Display user's email -->
+							   <h4>Username: <b><em>{{ user.username }}</em></b></h4>
+						        <!-- Display user's email -->
 							  {% if user.email %}
 							        <p>Email: {{ user.email }}</p>
 							  {% else %}
@@ -35,10 +33,11 @@
 							        <p>Bio: {{ user.profile.bio }}</p>
 							  {% else %}
 								    <p>Bio: <em>This user does not have a bio</em></p>
-							  <div class="back-to-list">
-								  <a href="{% url 'accounts:update_profile' %}">Edit account</a>
-							  </div>
-			                {% endif %}
+							  {% endif %}
+
+				            <div class="back-to-list">
+					            <a href="{% url 'accounts:update_profile' %}">Edit account</a>
+				            </div>
 				{% else %}
 					  <p>Please login to see this page</p>
             </div><br>
