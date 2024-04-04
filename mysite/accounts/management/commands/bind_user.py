@@ -4,7 +4,7 @@ from django.core.management import BaseCommand
 
 class Command(BaseCommand):
     def handle(self, *args, **options):
-        user = User.objects.get(pk=2)
+        user = User.objects.get(pk=1)
         group, created = Group.objects.get_or_create(
             name="profile_manager",
         )

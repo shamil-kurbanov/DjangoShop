@@ -1,4 +1,6 @@
 {% extends 'accounts/base.html' %}
+{% load static %}
+<link rel="stylesheet" href="{% static 'css/main.css' %}">
 
 {% block title %}
 	Confirm archive {{ object.name }}
@@ -15,9 +17,9 @@
 		<form method="post">
 			{% csrf_token %}
 			{{ form.as_p }}
-
-
-			<button type="submit">Archive</button>
+            <div class="back-to-list">
+			    <button type="submit">Archive</button>
+            </div>
 		</form>
 	</div>
 {% endblock %}

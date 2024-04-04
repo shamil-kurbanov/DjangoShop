@@ -97,4 +97,45 @@
   margin-top: 20px;
 }
 
+.btn-delete {
+}
+
+.btn-cancel > a{
+	max-width: 250px;
+	display: block;
+	margin-top: 5px;
+	padding: 10px;
+  	background-color: #08c47b;
+  	color: #fff;
+  	border: none;
+  	border-radius: 10px;
+  	cursor: pointer;
+}
+
+.fixed-container form .btn-delete > button{
+	max-width: 250px;
+	display: block;
+	margin-top: 5px;
+	padding: 10px;
+  	background-color: #CC3434;
+  	color: #fff;
+  	border: none;
+  	border-radius: 10px;
+  	cursor: pointer;
+}
+
 /* -------------------------------------------- */
+.fixed-container form button,
+.fixed-container form input[type="submit"]{
+  width: 98%;
+  padding: 10px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.fixed-container form button:hover {
+  background-color: #0056b3;
+}
