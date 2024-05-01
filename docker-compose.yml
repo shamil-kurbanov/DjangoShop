@@ -1,0 +1,35 @@
+version: "3.9"
+
+services:
+
+  app:
+    image: app:latest
+    build:
+      context: .
+      dockerfile: Dockerfile
+    command:
+      - "python"
+      - "manage.py"
+      - "runserver"
+      - "0.0.0.0:8080"
+    ports:
+      - "8000:8080"
+    logging:
+      driver: loki
+      options:
+        loki-url: http://host.docker.internal:3100/loki/api/v1/push
+
+  grafana:
+    image: grafana/grafana:latest
+    environment:
+      - GF_AUTH_ANONYMOUS_ENABLED=true
+      - GF_AUTH_ANONYMOUS_ORG_ROLE=Admin
+    ports:
+      - "3000:3000"
+    depends_on:
+      - loki
+
+  loki:
+      image: grafana/loki:latest
+      ports:
+        - "3100:3100"

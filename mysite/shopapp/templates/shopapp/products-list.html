@@ -1,8 +1,11 @@
 {% extends 'accounts/base.html' %}
+{% load i18n %}
 {% load static %}
 <link rel="stylesheet" href="{% static 'css/main.css' %}">
+
+
 {% block title %}
-  Products List
+	{% translate 'Products List' %}
 {% endblock %}
 
 {% block extra_css %}
@@ -11,9 +14,16 @@
 
 {% block body %}
   <div class="container">
-    <h1 class="">Products</h1>
-        <div class="row">
+    <h1 class="">{% translate 'Products'%}</h1>
+        <div>
           {% if products %}
+	        <div>
+		         {% blocktranslate count products_count=products|length%}
+		            <h3>There is only one product:</h3>
+		        {% plural %}
+		            <h3>There are {{ products_count }} products:</h3>
+		        {% endblocktranslate %}
+	        </div>
             {% for product in products %}
               <div>
                   <div>
@@ -25,26 +35,37 @@
                         <h5 class="card-title product-title">
                           <a href="{% url 'shopapp:product_details' pk=product.pk %}" class="text-dark">{{ product.name }}</a>
                         </h5>
-                        <p>Price: ${{ product.price }}</p>
-                        <p>Discount: {% if product.discount %}${{ product.discount }}{% else %}No discount{% endif %}</p>
+                        <p>{% translate 'Price'%}: ${{ product.price }}</p>
+	                    {% translate 'Products'%}
+                        <p>{% translate 'Discount'%}: {% if product.discount %}${{ product.discount }}{% else %} {% translate 'No Discount'%}{% endif %}</p>
                   </div>
                   </div>
               </div>
             {% endfor %}
 
+	        {% if perms.shopapp.can_create_product %}
+	          <div class="back-to-list">
+	            <a href="{% url 'shopapp:product_create' %}" > {% trans "Create a New Product"%}</a>
+	          </div>
+            {% endif %}
+
           {% else %}
-            <div class="">
-                <div class="" role="">
-                    No products found.
+            <div>
+                <div>
+	                {% if perms.shopapp.can_create_product %}
+	                    {% url 'shopapp:product_create' as create_product_url%}
+	                        {% blocktranslate %}
+	                            <h3>No products found</h3>
+	                            <div class="back-to-list">
+	                                <a href="{{create_product_url}}"> Create a New One</a>
+	                            </div>
+	                        {% endblocktranslate %}
+	                {% endif %}
                 </div>
             </div>
           {% endif %}
         </div>
 
-        {% if perms.shopapp.can_create_product %}
-          <div class="back-to-list">
-            <a href="{% url 'shopapp:product_create' %}" >Create a New Product</a>
-          </div>
-        {% endif %}
+
   </div>
 {% endblock %}

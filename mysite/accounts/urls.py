@@ -13,6 +13,7 @@ from .views import (login_view,
                     UpdateProfileView,
                     UserListView,
                     UserDetailView,
+                    HelloView,
                     )
 
 app_name = 'accounts'
@@ -37,5 +38,7 @@ urlpatterns = [
     path('users-list/', UserListView.as_view(), name='users_list'),
     path('user-detail/<int:pk>/', UserDetailView.as_view(), name='user_detail'),
 
-    path("foo-bar/", FooBarView.as_view(), name="foo-bar")
+    path("foo-bar/", FooBarView.as_view(), name="foo-bar"),
+
+    path("hello/", HelloView.as_view(), name="hello"),
 ]

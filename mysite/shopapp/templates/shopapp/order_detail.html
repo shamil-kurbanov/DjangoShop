@@ -5,30 +5,32 @@
 {% endblock %}
 
 {% block body %}
-    Order #{{ order.pk }} details
-    <div>
-        <b>Order by {% firstof order.user.first_name order.user.username %}</b>
-        <p>Promocode: <code>{{ order.promocode }}</code></p>
-        <p>Delivery address: {{ order.delivery_address }}</p>
-        <div>
-            Product in order:
-            <ul>
-                {% for product in order.products.all %}
-                    <li>{{ product.name }} for ${{ product.price }}</li>
-                {% endfor %}
-            </ul>
-        </div>
-        <div>
-            <a href="{% url 'shopapp:orders_list' %}">Back to orders</a>
-        </div>
-	    <br>
-        <div>
-             <a href="{% url 'shopapp:order_update' pk=order.pk %}">Update this order</a>
-        </div>
-	    <br>
-        <div>
-            <a href="{% url 'shopapp:order_delete' pk=order.pk %}">Delete this order</a>
-        </div>
-	    <br>
-    </div>
+	<div class="fixed-container-login">
+		    <h1>Order #{{ order.pk }} Details</h1>
+		    <div>
+		        <b>Order by {% firstof order.user.first_name order.user.username %}</b>
+		        <p>Promocode: <code>{{ order.promocode }}</code></p>
+		        <p>Delivery address: {{ order.delivery_address }}</p>
+		        <div>
+		            Product in order:
+		            <ul>
+		                {% for product in order.products.all %}
+		                    <li>{{ product.name }} for ${{ product.price }}</li>
+		                {% endfor %}
+		            </ul>
+		        </div>
+		        <div>
+		            <a href="{% url 'shopapp:orders_list' %}">Back to orders</a>
+		        </div>
+			    <br>
+		        <div>
+		             <a href="{% url 'shopapp:order_update' pk=order.pk %}">Update this order</a>
+		        </div>
+			    <br>
+		        <div>
+		            <a href="{% url 'shopapp:order_delete' pk=order.pk %}">Delete this order</a>
+		        </div>
+			    <br>
+		    </div>
+	</div>
 {% endblock %}

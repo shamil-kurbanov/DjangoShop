@@ -1,0 +1,33 @@
+Grafana is opensource project for data visualization
+
+Grafana Loki is tool for capture and store logs in real time
+
+You can also integrate Grafana Loki and Docker to collect logs directly from
+Docker containers, without embedding them in the application source code
+
+$ docker compose pull
+
+$ docker compose up -d grafana loki
+
+link to dashboards Grafana: http://localhost:3000/
+loki url connection: http://loki:3100 and then "save"
+
+----------
+install docker plugin Loki: docker plugin install grafana/loki-docker-driver:latest --alias loki --grant-all-permissions
+restart docker service
+docker plugin ls
+
+----------------------
+    logging:
+      driver: loki
+      options:
+      #  loki-url: http://localhost:3100/loki/api/v1/push
+        loki-url: http://host.docker.internal:3100/loki/api/v1/push
+------------------------
+and then:
+$ docker compose up -d grafana loki
+$ docker compose up -d app
+$ docker compose build app
+$ docker compose up -d app
+$ docker compose logs app
+

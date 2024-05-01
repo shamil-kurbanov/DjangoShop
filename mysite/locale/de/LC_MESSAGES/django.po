@@ -1,0 +1,256 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-04-17 23:09+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: .\accounts\views.py:22
+msgid "welcome hello world"
+msgstr "Hallo Welt!"
+
+#: .\accounts\views.py:28
+#, python-brace-format
+msgid "one product"
+msgid_plural "{count} products"
+msgstr[0] "ein Produkt"
+msgstr[1] "{count} Produkte"
+
+#: .\blogapp\templates\blogapp\article-details.html:6
+#: .\blogapp\templates\blogapp\article-details.html:14
+msgid "Article Details"
+msgstr ""
+
+#: .\blogapp\templates\blogapp\article_list.html:8
+#: .\blogapp\templates\blogapp\article_list.html:17
+msgid "Articles"
+msgstr ""
+
+#: .\blogapp\templates\blogapp\article_list.html:21
+#, fuzzy, python-format
+#| msgid ""
+#| "\n"
+#| "\t\t            <h3>There is only one product:</h3>\n"
+#| "\t\t        "
+#| msgid_plural ""
+#| "\n"
+#| "\t\t            <h3>There are %(products_count)s products:</h3>\n"
+#| "\t\t        "
+msgid ""
+"\n"
+"\t\t            <h3>There is only one article:</h3>\n"
+"\t\t        "
+msgid_plural ""
+"\n"
+"\t\t            <h3>There are %(articles_count)s articles:</h3>\n"
+"\t\t        "
+msgstr[0] ""
+"\n"
+"\t\t            <h3>Es gibt nur ein Produkt:</h3>\n"
+"\t\t        "
+msgstr[1] ""
+"\n"
+"\t\t            <h3>Es gibt %(products_count)s Produkte:</h3>\n"
+"\t\t        "
+
+#: .\blogapp\templates\blogapp\article_list.html:31
+msgid "Publication date:"
+msgstr ""
+
+#: .\blogapp\templates\blogapp\article_list.html:32
+msgid "Author:"
+msgstr ""
+
+#: .\blogapp\templates\blogapp\article_list.html:33
+msgid "Category:"
+msgstr ""
+
+#: .\blogapp\templates\blogapp\article_list.html:50
+#, fuzzy
+#| msgid "Create a New Product"
+msgid "Create a New Article"
+msgstr "Ein neues Produkt erstellen"
+
+#: .\blogapp\templates\blogapp\article_list.html:59
+#, fuzzy, python-format
+#| msgid ""
+#| "\n"
+#| "\t                            <h3>No products found</h3>\n"
+#| "\t                            <div class=\"back-to-list\">\n"
+#| "\t                                <a href=\"%(create_product_url)s\"> "
+#| "Create a New One</a>\n"
+#| "\t                            </div>\n"
+#| "\t                        "
+msgid ""
+"\n"
+"\t                            <h3>No articles found</h3>\n"
+"\t                            <div class=\"back-to-list\">\n"
+"\t                                <a href=\"%(create_article_url)s\"> Create "
+"a New One</a>\n"
+"\t                            </div>\n"
+"\t                        "
+msgstr ""
+"\n"
+"\t                            <h3>Keine Produkte gefunden</h3>\n"
+"\t                            <div class=\"back-to-list\">\n"
+"\t                                <a href=\"%(create_product_url)s\" > Ein "
+"neues erstellen</a>\n"
+"\t                            </div>\n"
+"\t                        "
+
+#: .\blogapp\templates\blogapp\create_article.html:6
+#: .\blogapp\templates\blogapp\create_article.html:14
+msgid "Create Article"
+msgstr ""
+
+#: .\blogapp\templates\blogapp\create_article.html:18
+msgid "Submit"
+msgstr ""
+
+#: .\mysite\settings.py:133
+msgid "English"
+msgstr "Englisch"
+
+#: .\mysite\settings.py:134
+msgid "Deutsch"
+msgstr "Deutsch"
+
+#: .\shopapp\models.py:47 .\shopapp\templates\shopapp\product-details.html:7
+#, fuzzy
+#| msgid "Products"
+msgid "Product"
+msgstr "Produkte"
+
+#: .\shopapp\models.py:48 .\shopapp\templates\shopapp\products-list.html:17
+#: .\shopapp\templates\shopapp\products-list.html:39
+msgid "Products"
+msgstr "Produkte"
+
+#: .\shopapp\models.py:86
+msgid "Order"
+msgstr "Bestellung"
+
+#: .\shopapp\models.py:87
+msgid "Orders"
+msgstr "Bestellungen"
+
+#: .\shopapp\templates\shopapp\product-details.html:16
+msgid "There is a preview image available for this product"
+msgstr "Für dieses Produkt ist ein Vorschaubild verfügbar"
+
+#: .\shopapp\templates\shopapp\product-details.html:22
+msgid "Description"
+msgstr "Beschreibung"
+
+#: .\shopapp\templates\shopapp\product-details.html:27
+#: .\shopapp\templates\shopapp\products-list.html:38
+msgid "Price"
+msgstr "Preis"
+
+#: .\shopapp\templates\shopapp\product-details.html:35
+msgid "Archived"
+msgstr "Archiviert"
+
+#: .\shopapp\templates\shopapp\product-details.html:45
+#, python-format
+msgid ""
+"\n"
+"\t\t\t            <div class=\"back-to-list\">\n"
+"\t\t\t                  <a href=\"%(create_product_url)s\" >Create a New "
+"One</a>\n"
+"\t\t\t            </div>\n"
+"\n"
+"\t\t\t            <div class=\"back-to-list\">\n"
+"\t\t\t                  <a href=\"%(update_product_url)s\" >Update product</"
+"a>\n"
+"\t\t\t            </div>\n"
+"                         </div>\n"
+"\t\t\t            <div class=\"back-to-list\">\n"
+"\t\t\t                 <a href=\"%(delete_product_url)s\">Archive product</"
+"a>\n"
+"\t\t\t            </div>\n"
+"\t\t\t        "
+msgstr ""
+"\n"
+"\t\t\t            <div class=\"back-to-list\">\n"
+"\t\t\t                  <a href=\"%(create_product_url)s\" >Ein neues "
+"erstellen One</a>\n"
+"\t\t\t            </div>\n"
+"\n"
+"\t\t\t            <div class=\"back-to-list\">\n"
+"\t\t\t                  <a href=\"%(update_product_url)s\" >Produkt updaten</"
+"a>\n"
+"\t\t\t            </div>\n"
+"                         </div>\n"
+"\t\t\t            <div class=\"back-to-list\">\n"
+"\t\t\t                 <a href=\"%(delete_product_url)s\">Produkt "
+"archivieren</a>\n"
+"\t\t\t            </div>\n"
+"\t\t\t        "
+
+#: .\shopapp\templates\shopapp\products-list.html:8
+msgid "Products List"
+msgstr "Produktliste"
+
+#: .\shopapp\templates\shopapp\products-list.html:21
+#, python-format
+msgid ""
+"\n"
+"\t\t            <h3>There is only one product:</h3>\n"
+"\t\t        "
+msgid_plural ""
+"\n"
+"\t\t            <h3>There are %(products_count)s products:</h3>\n"
+"\t\t        "
+msgstr[0] ""
+"\n"
+"\t\t            <h3>Es gibt nur ein Produkt:</h3>\n"
+"\t\t        "
+msgstr[1] ""
+"\n"
+"\t\t            <h3>Es gibt %(products_count)s Produkte:</h3>\n"
+"\t\t        "
+
+#: .\shopapp\templates\shopapp\products-list.html:40
+msgid "Discount"
+msgstr "Rabatt"
+
+#: .\shopapp\templates\shopapp\products-list.html:40
+msgid "No Discount"
+msgstr "Kein Rabatt"
+
+#: .\shopapp\templates\shopapp\products-list.html:48
+msgid "Create a New Product"
+msgstr "Ein neues Produkt erstellen"
+
+#: .\shopapp\templates\shopapp\products-list.html:57
+#, python-format
+msgid ""
+"\n"
+"\t                            <h3>No products found</h3>\n"
+"\t                            <div class=\"back-to-list\">\n"
+"\t                                <a href=\"%(create_product_url)s\"> Create "
+"a New One</a>\n"
+"\t                            </div>\n"
+"\t                        "
+msgstr ""
+"\n"
+"\t                            <h3>Keine Produkte gefunden</h3>\n"
+"\t                            <div class=\"back-to-list\">\n"
+"\t                                <a href=\"%(create_product_url)s\" > Ein "
+"neues erstellen</a>\n"
+"\t                            </div>\n"
+"\t                        "

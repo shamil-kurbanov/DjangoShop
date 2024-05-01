@@ -1,0 +1,14 @@
+name,description,price,discount
+Desktop,This is a good Desktop PC,2998.99,15
+Headphone,Sony,99.00,0
+Keyboard,Keyboard,24.96,0
+Laptop,,1999.00,10
+Laptop 14," ""A new one""",2299.00,5
+Laptop 16," ""A bigger one""",2699.00,7
+Monitor,This is a Monitor,150.00,5
+Smartphone,,999.00,15
+Smartphone 1,,199.00,15
+Smartphone 2,,299.00,15
+Smartphone 3,,399.00,15
+Smartwatch,,850.00,10
+iPhone 15 Pro Max,Apple,1234.00,10

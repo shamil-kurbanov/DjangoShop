@@ -13,6 +13,23 @@ import os
 from pathlib import Path
 
 from django.urls import reverse_lazy
+from django.utils.translation import gettext_lazy as _
+import sentry_sdk
+
+sentry_sdk.init(
+    dsn="https://4519f22b7b23ce7048ce50e259bc3a5a@o4507115389059072.ingest.de.sentry.io/4507115391287376",
+    # Set traces_sample_rate to 1.0 to capture 100%
+    # of transactions for performance monitoring.
+    traces_sample_rate=1.0,
+    # Set profiles_sample_rate to 1.0 to profile 100%
+    # of sampled transactions.
+    # We recommend adjusting this value in production.
+    profiles_sample_rate=1.0,
+
+    # Enable performance monitoring
+    enable_tracing=True,
+)
+
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -26,7 +43,30 @@ SECRET_KEY = 'django-insecure-hvxn%qq=gyw^4*o2lo1#bw0=wh#ux9s8h!=@c608arf_gz3+^7
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    '0.0.0.0',
+    '127.0.0.1',
+    'localhost',
+]
+INTERNAL_IPS = [
+    '127.0.0.1',
+]
+
+IS_DEBUG_MODE = ...
+
+
+def add_internal_ips(ip_list):
+    # Import socket library to access network functionalities.
+    import socket
+    # Get and ignore the hostname, and retrieve IP addresses.
+    _, _, ips = socket.gethostbyname_ex(socket.gethostname())
+    # Add a common local IP used for testing/debugging.
+    ip_list.append("10.0.2.2")
+    ip_list.extend([ip[: ip.rfind(".")] + ".1" for ip in ips])
+
+
+if IS_DEBUG_MODE:
+    add_internal_ips(INTERNAL_IPS)
 
 # Application definition
 
@@ -37,12 +77,25 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'django.contrib.admindocs',
     'accounts.apps.MyauthConfig',
     'shopapp.apps.ShopappConfig',
+    'blogapp.apps.BlogappConfig',
     'requestdataapp.apps.RequestdataappConfig',
+    'myapiapp.apps.MyapiappConfig',
+
+    'drf_spectacular',
+    'rest_framework',
+    'django_filters',
+    'rest_framework_simplejwt',
+    'debug_toolbar',
+    'django.contrib.sites',
+    'django.contrib.sitemaps.views'
+
 ]
 
 MIDDLEWARE = [
+    # 'django.middleware.cache.UpdateCacheMiddleware',  # 1
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
@@ -50,6 +103,10 @@ MIDDLEWARE = [
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
+    'django.middleware.locale.LocaleMiddleware',
+    'django.contrib.admindocs.middleware.XViewMiddleware',
+    'debug_toolbar.middleware.DebugToolbarMiddleware',
+    # 'django.middleware.cache.FetchFromCacheMiddleware',  # last
 ]
 
 ROOT_URLCONF = 'mysite.urls'
@@ -57,7 +114,7 @@ ROOT_URLCONF = 'mysite.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': [BASE_DIR / 'templates'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
@@ -70,6 +127,9 @@ TEMPLATES = [
     },
 ]
 
+SITE_ID = 1
+
+
 WSGI_APPLICATION = 'mysite.wsgi.application'
 
 # Database
@@ -81,6 +141,16 @@ DATABASES = {
         'NAME': BASE_DIR / 'db.sqlite3',
     }
 }
+
+CACHES = {
+    'default': {
+        'BACKEND': 'django.core.cache.backends.filebased.FileBasedCache',
+        # 'LOCATION': 'var/tmp/django_cache',
+        'LOCATION': 'c:\\temp\\django_cache',
+    },
+}
+
+CACHE_MIDDLEWARE_SECONDS = 200
 
 # Password validation
 # https://docs.djangoproject.com/en/4.0/ref/settings/#auth-password-validators
@@ -111,6 +181,17 @@ USE_I18N = True
 
 USE_TZ = True
 
+USE_L10N = True
+
+LOCALE_PATHS = [
+    BASE_DIR / 'locale/',
+]
+
+LANGUAGES = [
+    ('en', _('English')),
+    ('de', _('Deutsch')),
+]
+
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/4.0/howto/static-files/
 
@@ -137,3 +218,58 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 LOGIN_REDIRECT_URL = '/shop/'
 LOGIN_URL = reverse_lazy('accounts:login')
+
+REST_FRAMEWORK = {
+    "DEFAULT_PAGINATION_CLASS": "rest_framework.pagination.PageNumberPagination",
+    "PAGE_SIZE": 10,
+    'DEFAULT_AUTHENTICATION_CLASSES': (
+        'rest_framework_simplejwt.authentication.JWTAuthentication',
+    ),
+    "DEFAULT_FILTER_BACKENDS": [
+        "django_filters.rest_framework.DjangoFilterBackend",
+    ],
+    "DEFAULT_SCHEMA_CLASS": "drf_spectacular.openapi.AutoSchema",
+}
+
+SIMPLE_JWT = {
+    'AUTH_HEADER_TYPES': ('JWT',),
+}
+
+SPECTACULAR_SETTINGS = {
+    'TITLE': 'Django Shop App Project API',
+    'DESCRIPTION': 'Django Shop App wit custom auth',
+    'VERSION': '0.1.0',
+    'SERVE_INCLUDED_SCHEMA': False,
+
+}
+
+LOGFILE = BASE_DIR / 'logfile.log'
+LOGFILE_SIZE = 1 * 1024 * 1024
+LOGFILE_COUNT = 5
+
+LOGGING = {
+    'version': 1,
+    'disable_existing_loggers': False,
+    'formatters': {
+        'verbose': {
+          'format': '[%(levelname)s] %(asctime)s %(name)s: %(process)d %(thread)d %(message)s',
+        },
+    },
+    'handlers': {
+        'console': {
+            'class': 'logging.StreamHandler',
+            'formatter': 'verbose',
+        },
+        'logfile': {
+            'class': 'logging.handlers.RotatingFileHandler',
+            'filename': LOGFILE,
+            'maxBytes': LOGFILE_SIZE,
+            'backupCount': LOGFILE_COUNT,
+            'formatter': 'verbose',
+        }
+    },
+    'root': {
+        'handlers': ['console', 'logfile'],
+        'level': 'INFO',
+    },
+}

@@ -1,0 +1,47 @@
+https://company-pq.sentry.io/issues/
+
+pip install --upgrade 'sentry-sdk[django]'
+
+Configure SDK
+If you have the django package in your dependencies,
+the Django integration will be enabled automatically when you
+initialize the Sentry SDK. Initialize the Sentry SDK in your Django
+settings.py file:
+------------------------------------------------
+# settings.py
+import sentry_sdk
+
+sentry_sdk.init(
+    dsn="https://4519f22b7b23ce7048ce50e259bc3a5a@o4507115389059072.ingest.de.sentry.io/4507115391287376",
+    # Set traces_sample_rate to 1.0 to capture 100%
+    # of transactions for performance monitoring.
+    traces_sample_rate=1.0,
+    # Set profiles_sample_rate to 1.0 to profile 100%
+    # of sampled transactions.
+    # We recommend adjusting this value in production.
+    profiles_sample_rate=1.0,
+)
+--------------------------------------------------
+
+
+Verify
+You can easily verify your Sentry installation by creating a route
+that triggers an error:
+
+---------------------------------------------------
+# urls.py
+from django.urls import path
+
+def trigger_error(request):
+    division_by_zero = 1 / 0
+
+urlpatterns = [
+    path('sentry-debug/', trigger_error),
+    # ...
+]
+-------------------------------------------------
+When you point your browser to http://localhost:8000/sentry-debug/ a transaction
+in the Performance section of Sentry will be created.
+
+Additionally, an error event will be sent to Sentry and will be connected to
+the transaction. It takes a couple of moments for the data to appear in Sentry.

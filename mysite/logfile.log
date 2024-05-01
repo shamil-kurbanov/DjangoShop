@@ -1,0 +1,1633 @@
+[INFO] 2024-04-18 16:56:21,080 django.utils.autoreload: 8336 5256 Watching for file changes with StatReloader
+[INFO] 2024-04-18 16:56:26,064 shopapp.views: 8336 19060 Rendering shop index page
+[INFO] 2024-04-18 16:56:26,715 shopapp.views: 8336 19060 Rendering shop index page
+[INFO] 2024-04-18 16:56:27,194 shopapp.views: 8336 19060 Rendering shop index page
+[INFO] 2024-04-18 16:56:27,366 shopapp.views: 8336 19060 Rendering shop index page
+[INFO] 2024-04-18 16:56:27,533 shopapp.views: 8336 19060 Rendering shop index page
+[INFO] 2024-04-18 16:56:27,678 shopapp.views: 8336 19060 Rendering shop index page
+[INFO] 2024-04-18 16:56:27,830 shopapp.views: 8336 19060 Rendering shop index page
+[INFO] 2024-04-18 16:56:27,988 shopapp.views: 8336 19060 Rendering shop index page
+[INFO] 2024-04-18 16:56:28,132 shopapp.views: 8336 19060 Rendering shop index page
+[INFO] 2024-04-18 16:56:28,294 shopapp.views: 8336 19060 Rendering shop index page
+[INFO] 2024-04-18 16:56:28,421 shopapp.views: 8336 19060 Rendering shop index page
+[INFO] 2024-04-18 16:56:28,575 shopapp.views: 8336 19060 Rendering shop index page
+[INFO] 2024-04-18 16:56:28,721 shopapp.views: 8336 19060 Rendering shop index page
+
+8768768
+879797
+[INFO] 2024-04-18 16:57:14,124 shopapp.views: 8336 19060 Rendering shop index page
+[INFO] 2024-04-18 16:57:14,371 shopapp.views: 8336 19060 Rendering shop index page
+[INFO] 2024-04-18 16:57:14,534 shopapp.views: 8336 19060 Rendering shop index page
+[INFO] 2024-04-18 16:57:14,684 shopapp.views: 8336 19060 Rendering shop index page
+[INFO] 2024-04-18 16:57:14,856 shopapp.views: 8336 19060 Rendering shop index page
+[INFO] 2024-04-18 16:58:17,075 shopapp.views: 8336 19060 Rendering shop index page
+[INFO] 2024-04-18 16:58:17,254 shopapp.views: 8336 19060 Rendering shop index page
+[INFO] 2024-04-18 16:58:17,423 shopapp.views: 8336 19060 Rendering shop index page
+[INFO] 2024-04-18 16:58:17,598 shopapp.views: 8336 19060 Rendering shop index page
+[INFO] 2024-04-18 16:58:17,794 shopapp.views: 8336 19060 Rendering shop index page
+[INFO] 2024-04-18 16:58:18,079 shopapp.views: 8336 19060 Rendering shop index page
+[INFO] 2024-04-18 16:58:18,243 shopapp.views: 8336 19060 Rendering shop index page
+[INFO] 2024-04-18 16:58:18,417 shopapp.views: 8336 19060 Rendering shop index page
+[INFO] 2024-04-18 16:58:18,584 shopapp.views: 8336 19060 Rendering shop index page
+[INFO] 2024-04-18 16:58:54,497 django.utils.autoreload: 8336 5256 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\17_Logging_and_Profiling\mysite\mysite\settings.py changed, reloading.
+[INFO] 2024-04-18 16:58:55,393 django.utils.autoreload: 14508 23340 Watching for file changes with StatReloader
+[INFO] 2024-04-18 20:52:13,407 django.utils.autoreload: 14508 23340 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\17_Logging_and_Profiling\mysite\mysite\settings.py changed, reloading.
+[INFO] 2024-04-18 20:52:14,209 django.utils.autoreload: 8008 2904 Watching for file changes with StatReloader
+[INFO] 2024-04-18 20:53:46,432 django.utils.autoreload: 8008 2904 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\17_Logging_and_Profiling\mysite\mysite\settings.py changed, reloading.
+[INFO] 2024-04-18 20:53:47,116 django.utils.autoreload: 26252 24820 Watching for file changes with StatReloader
+[INFO] 2024-04-18 20:54:34,745 django.utils.autoreload: 26252 24820 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\17_Logging_and_Profiling\mysite\mysite\settings.py changed, reloading.
+[INFO] 2024-04-18 20:54:35,487 django.utils.autoreload: 25876 21360 Watching for file changes with StatReloader
+[INFO] 2024-04-18 20:54:58,862 django.utils.autoreload: 25876 21360 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\17_Logging_and_Profiling\mysite\mysite\settings.py changed, reloading.
+[INFO] 2024-04-18 20:54:59,575 django.utils.autoreload: 6688 19988 Watching for file changes with StatReloader
+[INFO] 2024-04-18 20:55:30,448 django.utils.autoreload: 6688 19988 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\17_Logging_and_Profiling\mysite\mysite\settings.py changed, reloading.
+[INFO] 2024-04-18 20:55:31,173 django.utils.autoreload: 22836 26236 Watching for file changes with StatReloader
+[INFO] 2024-04-18 20:55:45,009 django.utils.autoreload: 22836 26236 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\17_Logging_and_Profiling\mysite\mysite\settings.py changed, reloading.
+[INFO] 2024-04-18 20:55:45,705 django.utils.autoreload: 15476 26196 Watching for file changes with StatReloader
+[INFO] 2024-04-18 20:56:08,991 django.utils.autoreload: 15476 26196 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\17_Logging_and_Profiling\mysite\mysite\settings.py changed, reloading.
+[INFO] 2024-04-18 20:56:09,620 django.utils.autoreload: 18956 24712 Watching for file changes with StatReloader
+[INFO] 2024-04-18 20:56:13,584 django.utils.autoreload: 18956 24712 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\17_Logging_and_Profiling\mysite\mysite\settings.py changed, reloading.
+[INFO] 2024-04-18 20:56:14,235 django.utils.autoreload: 25444 22972 Watching for file changes with StatReloader
+[INFO] 2024-04-18 20:57:40,489 django.utils.autoreload: 25444 22972 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\17_Logging_and_Profiling\mysite\mysite\urls.py changed, reloading.
+[INFO] 2024-04-18 20:57:41,237 django.utils.autoreload: 20424 8132 Watching for file changes with StatReloader
+[INFO] 2024-04-18 20:57:50,173 django.utils.autoreload: 20424 8132 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\17_Logging_and_Profiling\mysite\mysite\urls.py changed, reloading.
+[INFO] 2024-04-18 20:57:50,834 django.utils.autoreload: 25232 8568 Watching for file changes with StatReloader
+[INFO] 2024-04-18 20:58:00,349 django.utils.autoreload: 25232 8568 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\17_Logging_and_Profiling\mysite\mysite\urls.py changed, reloading.
+[INFO] 2024-04-18 20:58:01,106 django.utils.autoreload: 25552 23868 Watching for file changes with StatReloader
+[INFO] 2024-04-18 20:58:05,170 django.utils.autoreload: 25552 23868 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\17_Logging_and_Profiling\mysite\mysite\urls.py changed, reloading.
+[INFO] 2024-04-18 20:58:06,023 django.utils.autoreload: 20944 20244 Watching for file changes with StatReloader
+[INFO] 2024-04-18 20:58:18,666 django.utils.autoreload: 20944 20244 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\17_Logging_and_Profiling\mysite\mysite\urls.py changed, reloading.
+[INFO] 2024-04-18 20:58:19,370 django.utils.autoreload: 24528 15716 Watching for file changes with StatReloader
+[INFO] 2024-04-18 20:58:22,349 django.utils.autoreload: 24528 15716 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\17_Logging_and_Profiling\mysite\mysite\urls.py changed, reloading.
+[INFO] 2024-04-18 20:58:23,105 django.utils.autoreload: 22736 21480 Watching for file changes with StatReloader
+[INFO] 2024-04-18 20:58:36,799 django.utils.autoreload: 22736 21480 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\17_Logging_and_Profiling\mysite\mysite\urls.py changed, reloading.
+[INFO] 2024-04-18 20:58:37,570 django.utils.autoreload: 24680 20548 Watching for file changes with StatReloader
+[INFO] 2024-04-18 20:58:50,206 django.utils.autoreload: 24680 20548 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\17_Logging_and_Profiling\mysite\mysite\urls.py changed, reloading.
+[INFO] 2024-04-18 20:58:50,847 django.utils.autoreload: 18804 18580 Watching for file changes with StatReloader
+[INFO] 2024-04-18 21:02:19,697 shopapp.views: 18804 21424 Rendering shop index page
+[INFO] 2024-04-18 21:15:42,667 shopapp.views: 18804 23344 Rendering shop index page
+[INFO] 2024-04-18 21:20:15,192 shopapp.views: 18804 11160 Rendering shop index page
+[INFO] 2024-04-18 21:22:03,796 shopapp.views: 18804 16476 Rendering shop index page
+[INFO] 2024-04-18 21:55:08,963 django.utils.autoreload: 12640 22688 Watching for file changes with StatReloader
+[WARNING] 2024-04-19 00:17:06,975 django.request: 12640 22960 Not Found: /favicon.ico
+[INFO] 2024-04-19 00:17:09,005 shopapp.views: 12640 22960 Rendering shop index page
+[INFO] 2024-04-19 00:17:15,541 shopapp.views: 12640 4968 Rendering shop index page
+[INFO] 2024-04-20 14:59:49,263 django.utils.autoreload: 12800 12944 Watching for file changes with StatReloader
+[WARNING] 2024-04-20 15:12:09,701 django.request: 12800 1360 Not Found: /
+[WARNING] 2024-04-20 15:12:09,943 django.request: 12800 1360 Not Found: /favicon.ico
+[INFO] 2024-04-20 15:12:13,852 shopapp.views: 12800 1360 Rendering shop index page
+[INFO] 2024-04-20 15:44:20,759 django.utils.autoreload: 12800 12944 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\forms.py changed, reloading.
+[INFO] 2024-04-20 15:44:22,262 django.utils.autoreload: 19320 16340 Watching for file changes with StatReloader
+[INFO] 2024-04-20 15:44:26,395 django.utils.autoreload: 19320 16340 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\forms.py changed, reloading.
+[INFO] 2024-04-20 15:44:27,907 django.utils.autoreload: 17604 2100 Watching for file changes with StatReloader
+[INFO] 2024-04-20 15:44:32,832 django.utils.autoreload: 17604 2100 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\forms.py changed, reloading.
+[INFO] 2024-04-20 15:44:34,250 django.utils.autoreload: 360 18960 Watching for file changes with StatReloader
+[INFO] 2024-04-20 15:44:35,870 django.utils.autoreload: 360 18960 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\forms.py changed, reloading.
+[INFO] 2024-04-20 15:44:37,200 django.utils.autoreload: 9600 15132 Watching for file changes with StatReloader
+[INFO] 2024-04-20 15:45:06,738 django.utils.autoreload: 9600 15132 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\forms.py changed, reloading.
+[INFO] 2024-04-20 15:45:08,407 django.utils.autoreload: 12444 8508 Watching for file changes with StatReloader
+[INFO] 2024-04-20 15:45:53,866 django.utils.autoreload: 12444 8508 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\forms.py changed, reloading.
+[INFO] 2024-04-20 15:45:55,731 django.utils.autoreload: 12088 12868 Watching for file changes with StatReloader
+[INFO] 2024-04-20 15:51:16,653 django.utils.autoreload: 12088 12868 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 15:51:18,570 django.utils.autoreload: 10724 18528 Watching for file changes with StatReloader
+[INFO] 2024-04-20 15:53:23,188 django.utils.autoreload: 10724 18528 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 15:53:24,922 django.utils.autoreload: 11960 19148 Watching for file changes with StatReloader
+[INFO] 2024-04-20 15:53:47,883 django.utils.autoreload: 11960 19148 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 15:53:49,610 django.utils.autoreload: 12780 15592 Watching for file changes with StatReloader
+[INFO] 2024-04-20 15:54:03,044 django.utils.autoreload: 12780 15592 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 15:54:04,593 django.utils.autoreload: 18904 1780 Watching for file changes with StatReloader
+[INFO] 2024-04-20 15:54:24,250 django.utils.autoreload: 18904 1780 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 15:54:25,910 django.utils.autoreload: 18988 19320 Watching for file changes with StatReloader
+[INFO] 2024-04-20 15:54:29,824 django.utils.autoreload: 18988 19320 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 15:54:31,486 django.utils.autoreload: 17740 13852 Watching for file changes with StatReloader
+[INFO] 2024-04-20 15:54:34,142 django.utils.autoreload: 17740 13852 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 15:54:35,768 django.utils.autoreload: 18260 18564 Watching for file changes with StatReloader
+[INFO] 2024-04-20 15:54:42,795 django.utils.autoreload: 18260 18564 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 15:54:44,814 django.utils.autoreload: 14876 19140 Watching for file changes with StatReloader
+[INFO] 2024-04-20 15:54:49,839 django.utils.autoreload: 14876 19140 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 15:54:51,877 django.utils.autoreload: 6372 10640 Watching for file changes with StatReloader
+[INFO] 2024-04-20 15:55:00,088 django.utils.autoreload: 6372 10640 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 15:55:02,173 django.utils.autoreload: 5388 13856 Watching for file changes with StatReloader
+[INFO] 2024-04-20 15:55:12,640 django.utils.autoreload: 5388 13856 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 15:55:14,645 django.utils.autoreload: 3088 15932 Watching for file changes with StatReloader
+[INFO] 2024-04-20 15:55:22,802 django.utils.autoreload: 3088 15932 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 15:55:24,429 django.utils.autoreload: 8132 11228 Watching for file changes with StatReloader
+[INFO] 2024-04-20 15:55:36,111 django.utils.autoreload: 8132 11228 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 15:55:37,888 django.utils.autoreload: 7304 16196 Watching for file changes with StatReloader
+[INFO] 2024-04-20 15:55:51,170 django.utils.autoreload: 7304 16196 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 15:55:52,868 django.utils.autoreload: 17616 10304 Watching for file changes with StatReloader
+[INFO] 2024-04-20 15:55:55,496 django.utils.autoreload: 17616 10304 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 15:55:57,413 django.utils.autoreload: 904 11012 Watching for file changes with StatReloader
+[INFO] 2024-04-20 15:56:01,061 django.utils.autoreload: 904 11012 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 15:56:03,000 django.utils.autoreload: 3224 5140 Watching for file changes with StatReloader
+[INFO] 2024-04-20 15:56:06,669 django.utils.autoreload: 3224 5140 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 15:56:08,441 django.utils.autoreload: 17872 17160 Watching for file changes with StatReloader
+[INFO] 2024-04-20 15:56:32,468 django.utils.autoreload: 17872 17160 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 15:56:34,181 django.utils.autoreload: 1436 14184 Watching for file changes with StatReloader
+[INFO] 2024-04-20 15:56:42,243 django.utils.autoreload: 1436 14184 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 15:56:44,114 django.utils.autoreload: 18132 14320 Watching for file changes with StatReloader
+[INFO] 2024-04-20 15:56:48,624 django.utils.autoreload: 18132 14320 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 15:56:50,329 django.utils.autoreload: 1116 7188 Watching for file changes with StatReloader
+[INFO] 2024-04-20 15:56:55,734 django.utils.autoreload: 1116 7188 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 15:56:57,551 django.utils.autoreload: 10416 6536 Watching for file changes with StatReloader
+[INFO] 2024-04-20 15:56:59,805 django.utils.autoreload: 10416 6536 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 15:57:01,464 django.utils.autoreload: 14888 17940 Watching for file changes with StatReloader
+[INFO] 2024-04-20 15:57:20,570 django.utils.autoreload: 14888 17940 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 15:57:22,384 django.utils.autoreload: 18936 11544 Watching for file changes with StatReloader
+[INFO] 2024-04-20 15:57:26,667 django.utils.autoreload: 18936 11544 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 15:57:28,352 django.utils.autoreload: 15132 18512 Watching for file changes with StatReloader
+[INFO] 2024-04-20 15:57:31,435 django.utils.autoreload: 15132 18512 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 15:57:33,323 django.utils.autoreload: 18180 2016 Watching for file changes with StatReloader
+[INFO] 2024-04-20 15:57:40,475 django.utils.autoreload: 18180 2016 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 15:57:42,244 django.utils.autoreload: 16364 17920 Watching for file changes with StatReloader
+[INFO] 2024-04-20 15:57:59,476 django.utils.autoreload: 16364 17920 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 15:58:01,262 django.utils.autoreload: 18152 10436 Watching for file changes with StatReloader
+[INFO] 2024-04-20 15:58:13,788 django.utils.autoreload: 18152 10436 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 15:58:15,654 django.utils.autoreload: 13524 8168 Watching for file changes with StatReloader
+[INFO] 2024-04-20 15:58:43,568 django.utils.autoreload: 13524 8168 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 15:58:45,227 django.utils.autoreload: 11312 4732 Watching for file changes with StatReloader
+[INFO] 2024-04-20 15:59:03,264 django.utils.autoreload: 11312 4732 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 15:59:05,049 django.utils.autoreload: 17600 6884 Watching for file changes with StatReloader
+[INFO] 2024-04-20 15:59:11,894 django.utils.autoreload: 17600 6884 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 15:59:13,625 django.utils.autoreload: 9904 18512 Watching for file changes with StatReloader
+[INFO] 2024-04-20 15:59:20,655 django.utils.autoreload: 9904 18512 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 15:59:22,125 django.utils.autoreload: 12780 19112 Watching for file changes with StatReloader
+[INFO] 2024-04-20 15:59:33,396 django.utils.autoreload: 12780 19112 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 15:59:34,990 django.utils.autoreload: 6276 9152 Watching for file changes with StatReloader
+[INFO] 2024-04-20 15:59:45,505 django.utils.autoreload: 6276 9152 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 15:59:47,226 django.utils.autoreload: 6548 11640 Watching for file changes with StatReloader
+[INFO] 2024-04-20 16:02:44,489 django.utils.autoreload: 6548 11640 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 16:02:46,476 django.utils.autoreload: 18632 7888 Watching for file changes with StatReloader
+[INFO] 2024-04-20 16:03:26,105 django.utils.autoreload: 18632 7888 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 16:03:28,098 django.utils.autoreload: 18516 4444 Watching for file changes with StatReloader
+[INFO] 2024-04-20 16:12:27,843 django.utils.autoreload: 18516 4444 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 16:12:29,823 django.utils.autoreload: 3612 9132 Watching for file changes with StatReloader
+[INFO] 2024-04-20 16:12:32,625 django.utils.autoreload: 3612 9132 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 16:12:34,529 django.utils.autoreload: 18368 18024 Watching for file changes with StatReloader
+[INFO] 2024-04-20 16:12:39,420 django.utils.autoreload: 18368 18024 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 16:12:41,052 django.utils.autoreload: 11164 11108 Watching for file changes with StatReloader
+[INFO] 2024-04-20 16:13:29,674 django.utils.autoreload: 11164 11108 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 16:13:31,570 django.utils.autoreload: 17948 14800 Watching for file changes with StatReloader
+[INFO] 2024-04-20 16:13:45,435 django.utils.autoreload: 17948 14800 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 16:13:47,388 django.utils.autoreload: 5920 19280 Watching for file changes with StatReloader
+[INFO] 2024-04-20 16:13:53,148 django.utils.autoreload: 5920 19280 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 16:13:54,824 django.utils.autoreload: 8248 1460 Watching for file changes with StatReloader
+[ERROR] 2024-04-20 16:14:23,584 django.request: 8248 10732 Internal Server Error: /admin/shopapp/product/
+Traceback (most recent call last):
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\sentry_sdk\integrations\django\views.py", line 38, in sentry_patched_render
+    return old_render(self)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\sentry_sdk\integrations\django\templates.py", line 75, in rendered_content
+    return real_rendered_content.fget(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\response.py", line 74, in resolve_template
+    return get_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\engine.py", line 177, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\engine.py", line 159, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\base.py", line 196, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\base.py", line 510, in parse
+    raise self.error(token, e)
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\base.py", line 508, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\loader_tags.py", line 295, in do_extends
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\base.py", line 510, in parse
+    raise self.error(token, e)
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\base.py", line 508, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\loader_tags.py", line 234, in do_block
+    nodelist = parser.parse(("endblock",))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\base.py", line 481, in parse
+    raise self.error(token, e)
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\base.py", line 479, in parse
+    filter_expression = self.compile_filter(token.contents)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\base.py", line 597, in compile_filter
+    return FilterExpression(token, self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\base.py", line 698, in __init__
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: Could not parse the remainder: ' 'admin:import_products_csv'' from 'url 'admin:import_products_csv''
+[INFO] 2024-04-20 16:15:33,185 django.utils.autoreload: 8248 1460 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\forms.py changed, reloading.
+[INFO] 2024-04-20 16:15:35,118 django.utils.autoreload: 5644 16296 Watching for file changes with StatReloader
+[ERROR] 2024-04-20 16:16:31,396 django.request: 5644 4336 Internal Server Error: /admin/shopapp/product/
+Traceback (most recent call last):
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\sentry_sdk\integrations\django\views.py", line 38, in sentry_patched_render
+    return old_render(self)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\sentry_sdk\integrations\django\templates.py", line 75, in rendered_content
+    return real_rendered_content.fget(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\response.py", line 74, in resolve_template
+    return get_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\engine.py", line 177, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\engine.py", line 159, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\base.py", line 196, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\base.py", line 510, in parse
+    raise self.error(token, e)
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\base.py", line 508, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\loader_tags.py", line 295, in do_extends
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\base.py", line 510, in parse
+    raise self.error(token, e)
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\base.py", line 508, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\loader_tags.py", line 234, in do_block
+    nodelist = parser.parse(("endblock",))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\base.py", line 481, in parse
+    raise self.error(token, e)
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\base.py", line 479, in parse
+    filter_expression = self.compile_filter(token.contents)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\base.py", line 597, in compile_filter
+    return FilterExpression(token, self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\base.py", line 698, in __init__
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: Could not parse the remainder: ' 'admin:import_products_csv'' from 'url 'admin:import_products_csv''
+[INFO] 2024-04-20 16:23:29,454 django.utils.autoreload: 5644 16296 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 16:23:31,488 django.utils.autoreload: 9228 1096 Watching for file changes with StatReloader
+[INFO] 2024-04-20 16:23:39,512 django.utils.autoreload: 9228 1096 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 16:23:41,167 django.utils.autoreload: 3972 18708 Watching for file changes with StatReloader
+[INFO] 2024-04-20 16:24:29,847 django.utils.autoreload: 3972 18708 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 16:24:31,516 django.utils.autoreload: 7864 19168 Watching for file changes with StatReloader
+[INFO] 2024-04-20 16:24:51,042 django.utils.autoreload: 7864 19168 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 16:24:52,905 django.utils.autoreload: 11656 18860 Watching for file changes with StatReloader
+[INFO] 2024-04-20 16:25:29,188 django.utils.autoreload: 11656 18860 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 16:25:31,003 django.utils.autoreload: 3616 4144 Watching for file changes with StatReloader
+[INFO] 2024-04-20 16:27:01,399 django.utils.autoreload: 3616 4144 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 16:27:03,267 django.utils.autoreload: 19268 2772 Watching for file changes with StatReloader
+[INFO] 2024-04-20 16:27:11,380 django.utils.autoreload: 19268 2772 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 16:27:13,047 django.utils.autoreload: 2616 5604 Watching for file changes with StatReloader
+[INFO] 2024-04-20 16:27:57,208 django.utils.autoreload: 2616 5604 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 16:27:58,821 django.utils.autoreload: 3180 17236 Watching for file changes with StatReloader
+[INFO] 2024-04-20 16:28:08,931 django.utils.autoreload: 3180 17236 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 16:28:10,591 django.utils.autoreload: 1096 6968 Watching for file changes with StatReloader
+[INFO] 2024-04-20 16:28:28,197 django.utils.autoreload: 1096 6968 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 16:28:29,910 django.utils.autoreload: 18720 18676 Watching for file changes with StatReloader
+[INFO] 2024-04-20 16:28:42,722 django.utils.autoreload: 18720 18676 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 16:28:44,511 django.utils.autoreload: 19272 9868 Watching for file changes with StatReloader
+[INFO] 2024-04-20 16:28:48,133 django.utils.autoreload: 19272 9868 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 16:28:49,841 django.utils.autoreload: 6388 1684 Watching for file changes with StatReloader
+[INFO] 2024-04-20 16:29:04,765 django.utils.autoreload: 6388 1684 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 16:29:06,780 django.utils.autoreload: 7716 10168 Watching for file changes with StatReloader
+[INFO] 2024-04-20 16:29:13,867 django.utils.autoreload: 7716 10168 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 16:29:15,841 django.utils.autoreload: 6652 8844 Watching for file changes with StatReloader
+[INFO] 2024-04-20 16:29:21,749 django.utils.autoreload: 6652 8844 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 16:29:23,518 django.utils.autoreload: 18608 18100 Watching for file changes with StatReloader
+[INFO] 2024-04-20 16:29:30,638 django.utils.autoreload: 18608 18100 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 16:29:32,473 django.utils.autoreload: 3772 18444 Watching for file changes with StatReloader
+[INFO] 2024-04-20 16:29:34,252 django.utils.autoreload: 3772 18444 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 16:29:35,890 django.utils.autoreload: 7792 896 Watching for file changes with StatReloader
+[INFO] 2024-04-20 16:29:50,166 django.utils.autoreload: 7792 896 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 16:29:51,792 django.utils.autoreload: 3680 9552 Watching for file changes with StatReloader
+[INFO] 2024-04-20 16:29:58,794 django.utils.autoreload: 3680 9552 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 16:30:00,563 django.utils.autoreload: 7024 5684 Watching for file changes with StatReloader
+[INFO] 2024-04-20 16:30:15,953 django.utils.autoreload: 7024 5684 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 16:30:17,652 django.utils.autoreload: 13672 1836 Watching for file changes with StatReloader
+[INFO] 2024-04-20 16:30:32,982 django.utils.autoreload: 13672 1836 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 16:30:34,770 django.utils.autoreload: 304 13560 Watching for file changes with StatReloader
+[INFO] 2024-04-20 16:31:01,679 django.utils.autoreload: 304 13560 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 16:31:03,572 django.utils.autoreload: 1596 13180 Watching for file changes with StatReloader
+[INFO] 2024-04-20 16:31:17,276 django.utils.autoreload: 1596 13180 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 16:31:19,106 django.utils.autoreload: 9300 896 Watching for file changes with StatReloader
+[INFO] 2024-04-20 16:31:51,023 django.utils.autoreload: 9300 896 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 16:31:52,790 django.utils.autoreload: 18396 12880 Watching for file changes with StatReloader
+[INFO] 2024-04-20 16:31:54,635 django.utils.autoreload: 18396 12880 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 16:31:56,352 django.utils.autoreload: 5240 7052 Watching for file changes with StatReloader
+[INFO] 2024-04-20 16:31:58,769 django.utils.autoreload: 5240 7052 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 16:32:00,449 django.utils.autoreload: 12964 1744 Watching for file changes with StatReloader
+[INFO] 2024-04-20 16:32:02,930 django.utils.autoreload: 12964 1744 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 16:32:04,868 django.utils.autoreload: 17728 17544 Watching for file changes with StatReloader
+[INFO] 2024-04-20 16:32:09,539 django.utils.autoreload: 17728 17544 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 16:32:11,399 django.utils.autoreload: 18288 1400 Watching for file changes with StatReloader
+[INFO] 2024-04-20 16:32:13,439 django.utils.autoreload: 18288 1400 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 16:32:14,968 django.utils.autoreload: 14616 11108 Watching for file changes with StatReloader
+[INFO] 2024-04-20 16:32:22,915 django.utils.autoreload: 14616 11108 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 16:32:24,715 django.utils.autoreload: 8416 7796 Watching for file changes with StatReloader
+[INFO] 2024-04-20 16:32:32,763 django.utils.autoreload: 8416 7796 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 16:32:34,271 django.utils.autoreload: 11960 13580 Watching for file changes with StatReloader
+[INFO] 2024-04-20 16:32:44,597 django.utils.autoreload: 11960 13580 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 16:32:46,470 django.utils.autoreload: 3796 19236 Watching for file changes with StatReloader
+[INFO] 2024-04-20 16:32:49,122 django.utils.autoreload: 3796 19236 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 16:32:50,829 django.utils.autoreload: 13924 9868 Watching for file changes with StatReloader
+[INFO] 2024-04-20 16:33:12,475 django.utils.autoreload: 13924 9868 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 16:33:14,387 django.utils.autoreload: 6472 9552 Watching for file changes with StatReloader
+[INFO] 2024-04-20 16:33:22,697 django.utils.autoreload: 6472 9552 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 16:33:24,497 django.utils.autoreload: 9708 19080 Watching for file changes with StatReloader
+[INFO] 2024-04-20 16:33:32,618 django.utils.autoreload: 9708 19080 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 16:33:34,286 django.utils.autoreload: 9084 10456 Watching for file changes with StatReloader
+[INFO] 2024-04-20 16:33:37,041 django.utils.autoreload: 9084 10456 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 16:33:38,804 django.utils.autoreload: 18608 10348 Watching for file changes with StatReloader
+[INFO] 2024-04-20 16:33:49,233 django.utils.autoreload: 18608 10348 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 16:33:50,969 django.utils.autoreload: 3592 3124 Watching for file changes with StatReloader
+[INFO] 2024-04-20 16:34:10,494 django.utils.autoreload: 3592 3124 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 16:34:12,184 django.utils.autoreload: 12200 9168 Watching for file changes with StatReloader
+[INFO] 2024-04-20 16:35:12,581 django.utils.autoreload: 12200 9168 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 16:35:14,251 django.utils.autoreload: 7052 16312 Watching for file changes with StatReloader
+[INFO] 2024-04-20 16:35:17,815 django.utils.autoreload: 7052 16312 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 16:35:19,451 django.utils.autoreload: 1760 15132 Watching for file changes with StatReloader
+[ERROR] 2024-04-20 16:36:14,106 django.request: 1760 18772 Internal Server Error: /admin/shopapp/product/import-product-csv/
+Traceback (most recent call last):
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\db\models\fields\__init__.py", line 1805, in to_python
+    decimal_value = decimal.Decimal(value)
+                    ^^^^^^^^^^^^^^^^^^^^^^
+decimal.InvalidOperation: [<class 'decimal.ConversionSyntax'>]
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\sentry_sdk\integrations\django\views.py", line 84, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py", line 122, in import_csv
+    Product.objects.bulk_create(products)
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\db\models\query.py", line 835, in bulk_create
+    returned_columns = self._batched_insert(
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\db\models\query.py", line 1875, in _batched_insert
+    self._insert(
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\db\models\query.py", line 1847, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1822, in execute_sql
+    for sql, params in self.as_sql():
+                       ^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1747, in as_sql
+    self.prepare_value(field, self.pre_save_val(field, obj))
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1686, in prepare_value
+    return field.get_db_prep_save(value, connection=self.connection)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\db\models\fields\__init__.py", line 1824, in get_db_prep_save
+    self.to_python(value), self.max_digits, self.decimal_places
+    ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\db\models\fields\__init__.py", line 1807, in to_python
+    raise exceptions.ValidationError(
+django.core.exceptions.ValidationError: ['“ "2299.00"” value must be a decimal number.']
+[ERROR] 2024-04-20 16:37:30,687 django.request: 1760 19444 Internal Server Error: /admin/shopapp/product/import-product-csv/
+Traceback (most recent call last):
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 329, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.IntegrityError: NOT NULL constraint failed: shopapp_product.created_by_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\sentry_sdk\integrations\django\views.py", line 84, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py", line 122, in import_csv
+    Product.objects.bulk_create(products)
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\db\models\query.py", line 835, in bulk_create
+    returned_columns = self._batched_insert(
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\db\models\query.py", line 1875, in _batched_insert
+    self._insert(
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\db\models\query.py", line 1847, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1823, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\debug_toolbar\panels\sql\tracking.py", line 235, in execute
+    return self._record(super().execute, sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\debug_toolbar\panels\sql\tracking.py", line 160, in _record
+    return method(sql, params)
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\sentry_sdk\integrations\django\__init__.py", line 644, in execute
+    result = real_execute(self, sql, params)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 329, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.IntegrityError: NOT NULL constraint failed: shopapp_product.created_by_id
+[INFO] 2024-04-20 16:37:40,519 shopapp.views: 1760 19444 Rendering shop index page
+[ERROR] 2024-04-20 16:38:01,700 django.request: 1760 19444 Internal Server Error: /admin/shopapp/product/import-product-csv/
+Traceback (most recent call last):
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 329, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.IntegrityError: NOT NULL constraint failed: shopapp_product.created_by_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\sentry_sdk\integrations\django\views.py", line 84, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py", line 122, in import_csv
+    Product.objects.bulk_create(products)
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\db\models\query.py", line 835, in bulk_create
+    returned_columns = self._batched_insert(
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\db\models\query.py", line 1875, in _batched_insert
+    self._insert(
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\db\models\query.py", line 1847, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1823, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\debug_toolbar\panels\sql\tracking.py", line 235, in execute
+    return self._record(super().execute, sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\debug_toolbar\panels\sql\tracking.py", line 160, in _record
+    return method(sql, params)
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\sentry_sdk\integrations\django\__init__.py", line 644, in execute
+    result = real_execute(self, sql, params)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 329, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.IntegrityError: NOT NULL constraint failed: shopapp_product.created_by_id
+[INFO] 2024-04-20 16:54:08,061 django.utils.autoreload: 1760 15132 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\views.py changed, reloading.
+[INFO] 2024-04-20 16:54:09,889 django.utils.autoreload: 6844 14528 Watching for file changes with StatReloader
+[INFO] 2024-04-20 16:55:19,414 django.utils.autoreload: 6844 14528 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\views.py changed, reloading.
+[INFO] 2024-04-20 16:55:22,015 django.utils.autoreload: 18560 6236 Watching for file changes with StatReloader
+[INFO] 2024-04-20 16:55:26,511 django.utils.autoreload: 18560 6236 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\views.py changed, reloading.
+[INFO] 2024-04-20 16:55:28,836 django.utils.autoreload: 17704 12280 Watching for file changes with StatReloader
+[INFO] 2024-04-20 16:55:47,436 django.utils.autoreload: 17704 12280 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\views.py changed, reloading.
+[INFO] 2024-04-20 16:55:49,085 django.utils.autoreload: 6440 2872 Watching for file changes with StatReloader
+[INFO] 2024-04-20 16:56:07,911 django.utils.autoreload: 6440 2872 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\views.py changed, reloading.
+[INFO] 2024-04-20 16:56:09,713 django.utils.autoreload: 1312 3088 Watching for file changes with StatReloader
+[INFO] 2024-04-20 16:56:20,489 django.utils.autoreload: 1312 3088 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\views.py changed, reloading.
+[INFO] 2024-04-20 16:56:22,155 django.utils.autoreload: 18328 8784 Watching for file changes with StatReloader
+[INFO] 2024-04-20 16:57:19,039 django.utils.autoreload: 18328 8784 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\views.py changed, reloading.
+[INFO] 2024-04-20 16:57:20,830 django.utils.autoreload: 18764 17744 Watching for file changes with StatReloader
+[INFO] 2024-04-20 16:58:33,453 django.utils.autoreload: 18764 17744 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\views.py changed, reloading.
+[INFO] 2024-04-20 16:58:35,154 django.utils.autoreload: 10008 3220 Watching for file changes with StatReloader
+[INFO] 2024-04-20 16:59:05,215 django.utils.autoreload: 10008 3220 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\views.py changed, reloading.
+[INFO] 2024-04-20 16:59:07,176 django.utils.autoreload: 5268 17956 Watching for file changes with StatReloader
+[INFO] 2024-04-20 16:59:45,974 django.utils.autoreload: 5268 17956 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\views.py changed, reloading.
+[INFO] 2024-04-20 16:59:47,594 django.utils.autoreload: 3792 5212 Watching for file changes with StatReloader
+[INFO] 2024-04-20 16:59:57,562 django.utils.autoreload: 3792 5212 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\views.py changed, reloading.
+[INFO] 2024-04-20 16:59:59,334 django.utils.autoreload: 17516 5584 Watching for file changes with StatReloader
+[INFO] 2024-04-20 17:00:02,412 django.utils.autoreload: 17516 5584 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\views.py changed, reloading.
+[INFO] 2024-04-20 17:00:04,063 django.utils.autoreload: 18488 10388 Watching for file changes with StatReloader
+[INFO] 2024-04-20 17:00:50,398 django.utils.autoreload: 18488 10388 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\views.py changed, reloading.
+[INFO] 2024-04-20 17:00:52,012 django.utils.autoreload: 9608 15112 Watching for file changes with StatReloader
+[INFO] 2024-04-20 17:01:03,499 django.utils.autoreload: 9608 15112 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\views.py changed, reloading.
+[INFO] 2024-04-20 17:01:05,059 django.utils.autoreload: 17500 18492 Watching for file changes with StatReloader
+[INFO] 2024-04-20 17:01:16,328 django.utils.autoreload: 17500 18492 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\views.py changed, reloading.
+[INFO] 2024-04-20 17:01:17,982 django.utils.autoreload: 16180 6784 Watching for file changes with StatReloader
+[INFO] 2024-04-20 17:01:47,328 django.utils.autoreload: 16180 6784 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\views.py changed, reloading.
+[INFO] 2024-04-20 17:01:49,094 django.utils.autoreload: 9360 7352 Watching for file changes with StatReloader
+[INFO] 2024-04-20 17:01:54,423 django.utils.autoreload: 9360 7352 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\views.py changed, reloading.
+[INFO] 2024-04-20 17:01:55,988 django.utils.autoreload: 7704 5224 Watching for file changes with StatReloader
+[INFO] 2024-04-20 17:02:03,936 django.utils.autoreload: 7704 5224 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\views.py changed, reloading.
+[INFO] 2024-04-20 17:02:05,547 django.utils.autoreload: 15712 5684 Watching for file changes with StatReloader
+[INFO] 2024-04-20 17:02:10,787 django.utils.autoreload: 15712 5684 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\views.py changed, reloading.
+[INFO] 2024-04-20 17:02:12,385 django.utils.autoreload: 17708 1460 Watching for file changes with StatReloader
+[INFO] 2024-04-20 17:02:30,416 django.utils.autoreload: 17708 1460 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\views.py changed, reloading.
+[INFO] 2024-04-20 17:02:32,277 django.utils.autoreload: 1924 14672 Watching for file changes with StatReloader
+[INFO] 2024-04-20 17:02:38,146 django.utils.autoreload: 1924 14672 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\views.py changed, reloading.
+[INFO] 2024-04-20 17:02:40,070 django.utils.autoreload: 14628 12304 Watching for file changes with StatReloader
+[INFO] 2024-04-20 17:02:43,077 django.utils.autoreload: 14628 12304 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\views.py changed, reloading.
+[INFO] 2024-04-20 17:02:44,911 django.utils.autoreload: 7732 9604 Watching for file changes with StatReloader
+[INFO] 2024-04-20 17:06:47,695 django.utils.autoreload: 7732 9604 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\views.py changed, reloading.
+[INFO] 2024-04-20 17:06:49,484 django.utils.autoreload: 18224 6440 Watching for file changes with StatReloader
+[INFO] 2024-04-20 17:07:09,462 django.utils.autoreload: 18224 6440 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\views.py changed, reloading.
+[INFO] 2024-04-20 17:07:11,171 django.utils.autoreload: 11144 19040 Watching for file changes with StatReloader
+[INFO] 2024-04-20 17:07:25,174 django.utils.autoreload: 11144 19040 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\views.py changed, reloading.
+[INFO] 2024-04-20 17:07:26,776 django.utils.autoreload: 17332 8516 Watching for file changes with StatReloader
+[INFO] 2024-04-20 17:07:30,155 django.utils.autoreload: 17332 8516 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\views.py changed, reloading.
+[INFO] 2024-04-20 17:07:31,937 django.utils.autoreload: 3520 11280 Watching for file changes with StatReloader
+[INFO] 2024-04-20 17:07:44,945 django.utils.autoreload: 3520 11280 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\views.py changed, reloading.
+[INFO] 2024-04-20 17:07:46,543 django.utils.autoreload: 19380 13940 Watching for file changes with StatReloader
+[INFO] 2024-04-20 17:08:24,864 django.utils.autoreload: 19380 13940 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\views.py changed, reloading.
+[INFO] 2024-04-20 17:08:26,600 django.utils.autoreload: 3676 14560 Watching for file changes with StatReloader
+[INFO] 2024-04-20 17:08:38,743 django.utils.autoreload: 3676 14560 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\views.py changed, reloading.
+[INFO] 2024-04-20 17:08:40,567 django.utils.autoreload: 2872 6872 Watching for file changes with StatReloader
+[INFO] 2024-04-20 17:08:45,194 django.utils.autoreload: 2872 6872 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\views.py changed, reloading.
+[INFO] 2024-04-20 17:08:46,730 django.utils.autoreload: 14236 14320 Watching for file changes with StatReloader
+[INFO] 2024-04-20 17:09:00,276 django.utils.autoreload: 14236 14320 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\views.py changed, reloading.
+[INFO] 2024-04-20 17:09:02,015 django.utils.autoreload: 7524 18444 Watching for file changes with StatReloader
+[INFO] 2024-04-20 17:09:08,802 django.utils.autoreload: 7524 18444 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\views.py changed, reloading.
+[INFO] 2024-04-20 17:09:10,572 django.utils.autoreload: 5772 17720 Watching for file changes with StatReloader
+[INFO] 2024-04-20 17:09:16,139 django.utils.autoreload: 5772 17720 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\views.py changed, reloading.
+[INFO] 2024-04-20 17:09:17,726 django.utils.autoreload: 904 17668 Watching for file changes with StatReloader
+[INFO] 2024-04-20 17:09:38,007 django.utils.autoreload: 904 17668 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\views.py changed, reloading.
+[INFO] 2024-04-20 17:09:39,544 django.utils.autoreload: 8608 19100 Watching for file changes with StatReloader
+[INFO] 2024-04-20 17:10:13,701 django.utils.autoreload: 8608 19100 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\views.py changed, reloading.
+[INFO] 2024-04-20 17:10:15,442 django.utils.autoreload: 19144 12340 Watching for file changes with StatReloader
+[INFO] 2024-04-20 17:10:28,175 django.utils.autoreload: 19144 12340 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\views.py changed, reloading.
+[INFO] 2024-04-20 17:10:30,227 django.utils.autoreload: 11908 17412 Watching for file changes with StatReloader
+[INFO] 2024-04-20 17:10:54,250 django.utils.autoreload: 11908 17412 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\views.py changed, reloading.
+[INFO] 2024-04-20 17:10:55,920 django.utils.autoreload: 2320 11700 Watching for file changes with StatReloader
+[INFO] 2024-04-20 17:11:42,677 django.utils.autoreload: 2320 11700 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\views.py changed, reloading.
+[INFO] 2024-04-20 17:11:44,457 django.utils.autoreload: 11896 8580 Watching for file changes with StatReloader
+[INFO] 2024-04-20 17:11:55,641 django.utils.autoreload: 11896 8580 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\views.py changed, reloading.
+[INFO] 2024-04-20 17:11:57,298 django.utils.autoreload: 17756 13524 Watching for file changes with StatReloader
+[INFO] 2024-04-20 17:12:09,927 django.utils.autoreload: 17756 13524 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\views.py changed, reloading.
+[INFO] 2024-04-20 17:12:11,558 django.utils.autoreload: 324 18748 Watching for file changes with StatReloader
+[INFO] 2024-04-20 17:12:22,481 django.utils.autoreload: 324 18748 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\views.py changed, reloading.
+[INFO] 2024-04-20 17:12:24,452 django.utils.autoreload: 10732 15504 Watching for file changes with StatReloader
+[INFO] 2024-04-20 17:12:30,060 django.utils.autoreload: 10732 15504 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\views.py changed, reloading.
+[INFO] 2024-04-20 17:12:31,856 django.utils.autoreload: 11920 17444 Watching for file changes with StatReloader
+[INFO] 2024-04-20 17:12:55,009 django.utils.autoreload: 11920 17444 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\views.py changed, reloading.
+[INFO] 2024-04-20 17:12:56,583 django.utils.autoreload: 1688 18944 Watching for file changes with StatReloader
+[INFO] 2024-04-20 17:13:01,313 django.utils.autoreload: 1688 18944 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\views.py changed, reloading.
+[INFO] 2024-04-20 17:13:03,588 django.utils.autoreload: 19072 18860 Watching for file changes with StatReloader
+[INFO] 2024-04-20 17:13:06,511 django.utils.autoreload: 19072 18860 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\views.py changed, reloading.
+[INFO] 2024-04-20 17:13:08,213 django.utils.autoreload: 4928 1512 Watching for file changes with StatReloader
+[INFO] 2024-04-20 17:13:12,593 django.utils.autoreload: 4928 1512 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\views.py changed, reloading.
+[INFO] 2024-04-20 17:13:14,658 django.utils.autoreload: 18396 15180 Watching for file changes with StatReloader
+[INFO] 2024-04-20 17:13:29,084 django.utils.autoreload: 18396 15180 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\views.py changed, reloading.
+[INFO] 2024-04-20 17:13:30,946 django.utils.autoreload: 8352 12692 Watching for file changes with StatReloader
+[INFO] 2024-04-20 17:13:35,258 django.utils.autoreload: 8352 12692 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\views.py changed, reloading.
+[INFO] 2024-04-20 17:13:36,893 django.utils.autoreload: 19452 19280 Watching for file changes with StatReloader
+[INFO] 2024-04-20 17:13:50,256 django.utils.autoreload: 19452 19280 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\views.py changed, reloading.
+[INFO] 2024-04-20 17:13:52,100 django.utils.autoreload: 2712 12068 Watching for file changes with StatReloader
+[INFO] 2024-04-20 17:13:54,925 django.utils.autoreload: 2712 12068 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\views.py changed, reloading.
+[INFO] 2024-04-20 17:13:56,614 django.utils.autoreload: 11108 4036 Watching for file changes with StatReloader
+[INFO] 2024-04-20 17:15:21,485 django.utils.autoreload: 11108 4036 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\views.py changed, reloading.
+[INFO] 2024-04-20 17:15:23,365 django.utils.autoreload: 14840 14888 Watching for file changes with StatReloader
+[INFO] 2024-04-20 17:15:29,276 django.utils.autoreload: 14840 14888 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\views.py changed, reloading.
+[INFO] 2024-04-20 17:15:31,114 django.utils.autoreload: 18504 7496 Watching for file changes with StatReloader
+[INFO] 2024-04-20 17:15:37,221 django.utils.autoreload: 18504 7496 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\views.py changed, reloading.
+[INFO] 2024-04-20 17:15:39,002 django.utils.autoreload: 15748 14652 Watching for file changes with StatReloader
+[INFO] 2024-04-20 17:16:01,201 shopapp.views: 15748 12988 Rendering shop index page
+[INFO] 2024-04-20 17:21:11,677 django.utils.autoreload: 15748 14652 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 17:21:13,289 django.utils.autoreload: 18180 8536 Watching for file changes with StatReloader
+[INFO] 2024-04-20 17:21:22,786 django.utils.autoreload: 18180 8536 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 17:21:24,504 django.utils.autoreload: 6516 10628 Watching for file changes with StatReloader
+[INFO] 2024-04-20 17:21:27,373 django.utils.autoreload: 6516 10628 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 17:21:29,020 django.utils.autoreload: 1436 18692 Watching for file changes with StatReloader
+[INFO] 2024-04-20 17:22:07,449 django.utils.autoreload: 1436 18692 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 17:22:09,226 django.utils.autoreload: 6876 14240 Watching for file changes with StatReloader
+[INFO] 2024-04-20 17:22:36,229 django.utils.autoreload: 6876 14240 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 17:22:37,974 django.utils.autoreload: 17296 17120 Watching for file changes with StatReloader
+[INFO] 2024-04-20 17:23:05,036 django.utils.autoreload: 17296 17120 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 17:23:06,675 django.utils.autoreload: 8132 19104 Watching for file changes with StatReloader
+[INFO] 2024-04-20 17:23:45,565 django.utils.autoreload: 8132 19104 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 17:23:47,128 django.utils.autoreload: 15288 15588 Watching for file changes with StatReloader
+[INFO] 2024-04-20 17:24:15,686 django.utils.autoreload: 15288 15588 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 17:24:17,275 django.utils.autoreload: 17732 18852 Watching for file changes with StatReloader
+[INFO] 2024-04-20 17:24:31,112 django.utils.autoreload: 17732 18852 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 17:24:33,165 django.utils.autoreload: 7016 11680 Watching for file changes with StatReloader
+[INFO] 2024-04-20 17:25:07,470 django.utils.autoreload: 7016 11680 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 17:25:09,061 django.utils.autoreload: 3120 14368 Watching for file changes with StatReloader
+[INFO] 2024-04-20 17:25:12,931 django.utils.autoreload: 3120 14368 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 17:25:14,334 django.utils.autoreload: 8044 304 Watching for file changes with StatReloader
+[INFO] 2024-04-20 17:25:34,105 django.utils.autoreload: 8044 304 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 17:25:35,771 django.utils.autoreload: 13080 11860 Watching for file changes with StatReloader
+[INFO] 2024-04-20 17:26:15,443 django.utils.autoreload: 13080 11860 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 17:26:17,221 django.utils.autoreload: 18716 17192 Watching for file changes with StatReloader
+[INFO] 2024-04-20 17:27:03,993 django.utils.autoreload: 18716 17192 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 17:27:05,708 django.utils.autoreload: 18340 8164 Watching for file changes with StatReloader
+[INFO] 2024-04-20 17:27:15,011 django.utils.autoreload: 18340 8164 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 17:27:16,704 django.utils.autoreload: 15464 9512 Watching for file changes with StatReloader
+[INFO] 2024-04-20 17:27:40,600 django.utils.autoreload: 15464 9512 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 17:27:42,279 django.utils.autoreload: 13296 5092 Watching for file changes with StatReloader
+[INFO] 2024-04-20 17:27:49,439 django.utils.autoreload: 13296 5092 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 17:27:51,227 django.utils.autoreload: 4408 11032 Watching for file changes with StatReloader
+[INFO] 2024-04-20 17:28:25,998 django.utils.autoreload: 4408 11032 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 17:28:27,545 django.utils.autoreload: 15128 14880 Watching for file changes with StatReloader
+[INFO] 2024-04-20 17:28:42,375 django.utils.autoreload: 15128 14880 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 17:28:44,281 django.utils.autoreload: 14084 6960 Watching for file changes with StatReloader
+[INFO] 2024-04-20 17:28:51,275 django.utils.autoreload: 14084 6960 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\shopapp\admin.py changed, reloading.
+[INFO] 2024-04-20 17:28:52,898 django.utils.autoreload: 10656 15452 Watching for file changes with StatReloader
+[INFO] 2024-04-21 01:00:13,342 django.utils.autoreload: 18276 1512 Watching for file changes with StatReloader
+[WARNING] 2024-04-21 01:00:20,537 django.request: 18276 3840 Not Found: /favicon.ico
+[WARNING] 2024-04-21 01:00:42,066 django.request: 18276 3840 Method Not Allowed: /shop/api/products/upload_csv/
+[INFO] 2024-04-21 13:47:41,338 django.utils.autoreload: 11052 14612 Watching for file changes with StatReloader
+[WARNING] 2024-04-21 13:47:49,735 django.request: 11052 10316 Not Found: /
+[WARNING] 2024-04-21 13:47:49,913 django.request: 11052 10316 Not Found: /favicon.ico
+[INFO] 2024-04-21 13:49:44,951 django.utils.autoreload: 11052 14612 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\blogapp\models.py changed, reloading.
+[INFO] 2024-04-21 13:49:46,950 django.utils.autoreload: 13172 12328 Watching for file changes with StatReloader
+[INFO] 2024-04-21 13:51:08,641 django.utils.autoreload: 13172 12328 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\blogapp\views.py changed, reloading.
+[INFO] 2024-04-21 13:51:10,510 django.utils.autoreload: 4532 8380 Watching for file changes with StatReloader
+[INFO] 2024-04-21 13:55:20,722 django.utils.autoreload: 4532 8380 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\blogapp\admin.py changed, reloading.
+[INFO] 2024-04-21 13:55:22,825 django.utils.autoreload: 4140 8436 Watching for file changes with StatReloader
+[INFO] 2024-04-21 13:55:45,344 django.utils.autoreload: 4140 8436 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\blogapp\admin.py changed, reloading.
+[INFO] 2024-04-21 13:55:47,064 django.utils.autoreload: 14636 8284 Watching for file changes with StatReloader
+[INFO] 2024-04-21 13:56:56,942 django.utils.autoreload: 14636 8284 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\blogapp\admin.py changed, reloading.
+[INFO] 2024-04-21 13:56:58,890 django.utils.autoreload: 16816 13672 Watching for file changes with StatReloader
+[ERROR] 2024-04-21 13:59:45,432 django.request: 16816 14996 Internal Server Error: /admin/blogapp/article/9/change/
+Traceback (most recent call last):
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 329, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.IntegrityError: NOT NULL constraint failed: blogapp_article.pub_date
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\sentry_sdk\integrations\django\views.py", line 84, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\contrib\admin\options.py", line 716, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\contrib\admin\sites.py", line 240, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\contrib\admin\options.py", line 1948, in change_view
+    return self.changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\contrib\admin\options.py", line 1804, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\contrib\admin\options.py", line 1855, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\contrib\admin\options.py", line 1259, in save_model
+    obj.save()
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\db\models\base.py", line 822, in save
+    self.save_base(
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\db\models\base.py", line 909, in save_base
+    updated = self._save_table(
+              ^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\db\models\base.py", line 1036, in _save_table
+    updated = self._do_update(
+              ^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\db\models\base.py", line 1101, in _do_update
+    return filtered._update(values) > 0
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\db\models\query.py", line 1278, in _update
+    return query.get_compiler(self.db).execute_sql(CURSOR)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1990, in execute_sql
+    cursor = super().execute_sql(result_type)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\debug_toolbar\panels\sql\tracking.py", line 235, in execute
+    return self._record(super().execute, sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\debug_toolbar\panels\sql\tracking.py", line 160, in _record
+    return method(sql, params)
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\sentry_sdk\integrations\django\__init__.py", line 644, in execute
+    result = real_execute(self, sql, params)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 329, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.IntegrityError: NOT NULL constraint failed: blogapp_article.pub_date
+[INFO] 2024-04-21 14:03:04,137 django.utils.autoreload: 16816 13672 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\blogapp\views.py changed, reloading.
+[INFO] 2024-04-21 14:03:06,265 django.utils.autoreload: 8304 10020 Watching for file changes with StatReloader
+[INFO] 2024-04-21 14:05:16,526 django.utils.autoreload: 1988 6768 Watching for file changes with StatReloader
+[INFO] 2024-04-21 14:12:17,333 django.utils.autoreload: 1988 6768 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\blogapp\views.py changed, reloading.
+[INFO] 2024-04-21 14:12:19,160 django.utils.autoreload: 11148 10360 Watching for file changes with StatReloader
+[INFO] 2024-04-21 14:12:22,757 django.utils.autoreload: 11148 10360 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\blogapp\views.py changed, reloading.
+[INFO] 2024-04-21 14:12:24,655 django.utils.autoreload: 7428 12744 Watching for file changes with StatReloader
+[INFO] 2024-04-21 14:12:26,759 django.utils.autoreload: 7428 12744 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\blogapp\views.py changed, reloading.
+[INFO] 2024-04-21 14:12:28,556 django.utils.autoreload: 7500 13672 Watching for file changes with StatReloader
+[INFO] 2024-04-21 14:12:32,988 django.utils.autoreload: 7500 13672 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\blogapp\views.py changed, reloading.
+[INFO] 2024-04-21 14:12:34,696 django.utils.autoreload: 10876 2700 Watching for file changes with StatReloader
+[INFO] 2024-04-21 14:12:50,476 django.utils.autoreload: 10876 2700 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\blogapp\views.py changed, reloading.
+[INFO] 2024-04-21 14:12:52,439 django.utils.autoreload: 12084 16872 Watching for file changes with StatReloader
+[INFO] 2024-04-21 14:12:59,021 django.utils.autoreload: 12084 16872 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\blogapp\views.py changed, reloading.
+[INFO] 2024-04-21 14:13:00,744 django.utils.autoreload: 9696 6236 Watching for file changes with StatReloader
+[INFO] 2024-04-21 14:13:05,280 django.utils.autoreload: 9696 6236 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\blogapp\views.py changed, reloading.
+[INFO] 2024-04-21 14:13:07,001 django.utils.autoreload: 8696 15476 Watching for file changes with StatReloader
+[INFO] 2024-04-21 14:13:14,846 django.utils.autoreload: 8696 15476 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\blogapp\views.py changed, reloading.
+[INFO] 2024-04-21 14:13:16,760 django.utils.autoreload: 14788 4612 Watching for file changes with StatReloader
+[INFO] 2024-04-21 14:13:28,873 django.utils.autoreload: 14788 4612 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\blogapp\views.py changed, reloading.
+[INFO] 2024-04-21 14:13:30,790 django.utils.autoreload: 9916 8868 Watching for file changes with StatReloader
+[INFO] 2024-04-21 14:13:38,638 django.utils.autoreload: 9916 8868 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\blogapp\views.py changed, reloading.
+[INFO] 2024-04-21 14:13:40,688 django.utils.autoreload: 16208 5432 Watching for file changes with StatReloader
+[INFO] 2024-04-21 14:14:03,114 django.utils.autoreload: 16208 5432 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\blogapp\views.py changed, reloading.
+[INFO] 2024-04-21 14:14:04,892 django.utils.autoreload: 13652 10804 Watching for file changes with StatReloader
+[INFO] 2024-04-21 14:14:14,270 django.utils.autoreload: 13652 10804 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\blogapp\views.py changed, reloading.
+[INFO] 2024-04-21 14:14:16,383 django.utils.autoreload: 16872 16412 Watching for file changes with StatReloader
+[INFO] 2024-04-21 14:14:26,550 django.utils.autoreload: 16872 16412 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\blogapp\views.py changed, reloading.
+[INFO] 2024-04-21 14:14:28,337 django.utils.autoreload: 14436 5676 Watching for file changes with StatReloader
+[INFO] 2024-04-21 14:14:40,855 django.utils.autoreload: 14436 5676 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\blogapp\views.py changed, reloading.
+[INFO] 2024-04-21 14:14:42,714 django.utils.autoreload: 13540 1764 Watching for file changes with StatReloader
+[INFO] 2024-04-21 14:14:48,590 django.utils.autoreload: 13540 1764 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\blogapp\views.py changed, reloading.
+[INFO] 2024-04-21 14:14:50,528 django.utils.autoreload: 13736 10892 Watching for file changes with StatReloader
+[INFO] 2024-04-21 14:15:40,093 django.utils.autoreload: 13736 10892 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\blogapp\views.py changed, reloading.
+[INFO] 2024-04-21 14:15:41,572 django.utils.autoreload: 2100 12416 Watching for file changes with StatReloader
+[INFO] 2024-04-21 14:15:44,341 django.utils.autoreload: 2100 12416 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\blogapp\views.py changed, reloading.
+[INFO] 2024-04-21 14:15:46,411 django.utils.autoreload: 11772 8416 Watching for file changes with StatReloader
+[INFO] 2024-04-21 14:15:52,356 django.utils.autoreload: 11772 8416 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\blogapp\views.py changed, reloading.
+[INFO] 2024-04-21 14:15:54,316 django.utils.autoreload: 14400 12136 Watching for file changes with StatReloader
+[INFO] 2024-04-21 14:16:52,357 django.utils.autoreload: 14400 12136 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\blogapp\views.py changed, reloading.
+[INFO] 2024-04-21 14:16:54,339 django.utils.autoreload: 2476 11680 Watching for file changes with StatReloader
+[INFO] 2024-04-21 14:17:20,755 django.utils.autoreload: 2476 11680 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\blogapp\views.py changed, reloading.
+[INFO] 2024-04-21 14:17:22,729 django.utils.autoreload: 11508 7120 Watching for file changes with StatReloader
+[INFO] 2024-04-21 14:17:35,512 django.utils.autoreload: 11508 7120 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\blogapp\views.py changed, reloading.
+[INFO] 2024-04-21 14:17:37,256 django.utils.autoreload: 12536 8940 Watching for file changes with StatReloader
+[INFO] 2024-04-21 14:18:08,214 django.utils.autoreload: 12536 8940 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\blogapp\views.py changed, reloading.
+[INFO] 2024-04-21 14:18:10,240 django.utils.autoreload: 7800 8736 Watching for file changes with StatReloader
+[INFO] 2024-04-21 14:18:12,739 django.utils.autoreload: 7800 8736 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\blogapp\views.py changed, reloading.
+[INFO] 2024-04-21 14:18:14,706 django.utils.autoreload: 8892 16832 Watching for file changes with StatReloader
+[INFO] 2024-04-21 14:23:08,650 django.utils.autoreload: 8892 16832 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\blogapp\urls.py changed, reloading.
+[INFO] 2024-04-21 14:23:11,108 django.utils.autoreload: 10356 11228 Watching for file changes with StatReloader
+[INFO] 2024-04-21 14:23:18,111 django.utils.autoreload: 10356 11228 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\blogapp\urls.py changed, reloading.
+[INFO] 2024-04-21 14:23:19,824 django.utils.autoreload: 1996 7076 Watching for file changes with StatReloader
+[INFO] 2024-04-21 14:23:24,690 django.utils.autoreload: 1996 7076 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\blogapp\urls.py changed, reloading.
+[INFO] 2024-04-21 14:23:26,556 django.utils.autoreload: 16980 11048 Watching for file changes with StatReloader
+[INFO] 2024-04-21 14:23:30,131 django.utils.autoreload: 16980 11048 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\blogapp\urls.py changed, reloading.
+[INFO] 2024-04-21 14:23:31,865 django.utils.autoreload: 4400 13144 Watching for file changes with StatReloader
+[INFO] 2024-04-21 14:23:36,699 django.utils.autoreload: 4400 13144 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\blogapp\urls.py changed, reloading.
+[INFO] 2024-04-21 14:23:38,524 django.utils.autoreload: 13960 8024 Watching for file changes with StatReloader
+[INFO] 2024-04-21 14:23:43,209 django.utils.autoreload: 13960 8024 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\blogapp\urls.py changed, reloading.
+[INFO] 2024-04-21 14:23:45,011 django.utils.autoreload: 3720 15564 Watching for file changes with StatReloader
+[INFO] 2024-04-21 14:23:50,869 django.utils.autoreload: 3720 15564 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\blogapp\urls.py changed, reloading.
+[INFO] 2024-04-21 14:23:52,727 django.utils.autoreload: 7524 6940 Watching for file changes with StatReloader
+[INFO] 2024-04-21 14:23:58,621 django.utils.autoreload: 7524 6940 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\blogapp\urls.py changed, reloading.
+[INFO] 2024-04-21 14:24:00,464 django.utils.autoreload: 7372 16528 Watching for file changes with StatReloader
+[INFO] 2024-04-21 14:28:51,818 django.utils.autoreload: 7372 16528 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\blogapp\urls.py changed, reloading.
+[INFO] 2024-04-21 14:28:53,560 django.utils.autoreload: 8736 5888 Watching for file changes with StatReloader
+[ERROR] 2024-04-21 14:28:59,188 django.request: 8736 10600 Internal Server Error: /blogapp/articles/latest/feed/
+Traceback (most recent call last):
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\sentry_sdk\integrations\django\views.py", line 84, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\contrib\syndication\views.py", line 40, in __call__
+    feedgen = self.get_feed(obj, request)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\contrib\syndication\views.py", line 194, in get_feed
+    self._get_dynamic_attr("item_link", item),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\contrib\syndication\views.py", line 103, in _get_dynamic_attr
+    return attr(obj)
+           ^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\blogapp\views.py", line 77, in item_link
+    return reverse('blogapp:article_detail', args=[item.pk])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\urls\resolvers.py", line 851, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'article_detail' not found. 'article_detail' is not a valid view function or pattern name.
+[INFO] 2024-04-21 14:30:31,274 django.utils.autoreload: 8736 5888 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\blogapp\views.py changed, reloading.
+[INFO] 2024-04-21 14:30:33,017 django.utils.autoreload: 1976 3984 Watching for file changes with StatReloader
+[INFO] 2024-04-21 14:44:45,728 django.utils.autoreload: 1976 3984 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\blogapp\views.py changed, reloading.
+[INFO] 2024-04-21 14:44:47,422 django.utils.autoreload: 1600 5360 Watching for file changes with StatReloader
+[INFO] 2024-04-21 14:45:19,487 django.utils.autoreload: 14348 1872 Watching for file changes with StatReloader
+[INFO] 2024-04-21 14:47:05,920 django.utils.autoreload: 14348 1872 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\blogapp\views.py changed, reloading.
+[INFO] 2024-04-21 14:47:07,842 django.utils.autoreload: 9140 7436 Watching for file changes with StatReloader
+[WARNING] 2024-04-21 14:47:48,845 django.request: 9140 11416 Not Found: /articles/
+[WARNING] 2024-04-21 14:49:29,271 django.request: 9140 2776 Not Found: /articles/
+[WARNING] 2024-04-21 14:51:38,283 django.request: 9140 2776 Not Found: /articles/
+[INFO] 2024-04-21 14:52:02,184 django.utils.autoreload: 9140 7436 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\blogapp\views.py changed, reloading.
+[INFO] 2024-04-21 14:52:04,118 django.utils.autoreload: 6436 4484 Watching for file changes with StatReloader
+[WARNING] 2024-04-21 14:52:07,468 django.request: 6436 9568 Not Found: /articles/
+[WARNING] 2024-04-21 14:52:16,864 django.request: 6436 9568 Not Found: /articles/
+[WARNING] 2024-04-21 14:52:49,011 django.request: 6436 9568 Not Found: /articles/
+[INFO] 2024-04-21 14:53:42,350 django.utils.autoreload: 11128 12572 Watching for file changes with StatReloader
+[WARNING] 2024-04-21 14:54:13,986 django.request: 11128 7364 Not Found: /articles/
+[WARNING] 2024-04-21 14:55:20,821 django.request: 11128 7364 Not Found: /en/blogapp/articles/1
+[WARNING] 2024-04-21 14:55:39,096 django.request: 11128 7140 Not Found: /articles/
+[WARNING] 2024-04-21 14:55:48,462 django.request: 11128 4780 Not Found: /articles/
+[WARNING] 2024-04-21 14:56:54,778 django.request: 11128 7140 Not Found: /articles/
+[WARNING] 2024-04-21 14:57:10,933 django.request: 11128 4780 Not Found: /articles/
+[INFO] 2024-04-21 14:57:31,285 django.utils.autoreload: 11128 12572 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\blogapp\urls.py changed, reloading.
+[INFO] 2024-04-21 14:57:33,358 django.utils.autoreload: 5456 11452 Watching for file changes with StatReloader
+[WARNING] 2024-04-21 14:57:34,208 django.request: 5456 16556 Not Found: /articles/
+[WARNING] 2024-04-21 14:57:40,824 django.request: 5456 16556 Not Found: /articles/
+[WARNING] 2024-04-21 14:58:01,279 django.request: 5456 17032 Not Found: /articles/
+[INFO] 2024-04-21 14:58:45,439 django.utils.autoreload: 5456 11452 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\blogapp\urls.py changed, reloading.
+[INFO] 2024-04-21 14:58:47,347 django.utils.autoreload: 17336 3964 Watching for file changes with StatReloader
+[WARNING] 2024-04-21 15:03:55,661 django.request: 17336 11016 Not Found: /favicon.ico
+[WARNING] 2024-04-21 15:04:50,571 django.request: 17336 7532 Not Found: /blogapp/articles/
+[WARNING] 2024-04-21 15:04:50,809 django.request: 17336 7532 Not Found: /blogapp/articles/
+[WARNING] 2024-04-21 15:05:01,077 django.request: 17336 7532 Not Found: /blogapp/articles/
+[WARNING] 2024-04-21 15:05:01,762 django.request: 17336 7532 Not Found: /blogapp/articles/
+[WARNING] 2024-04-21 15:05:01,958 django.request: 17336 7532 Not Found: /blogapp/articles/
+[WARNING] 2024-04-21 15:05:02,096 django.request: 17336 7532 Not Found: /blogapp/articles/
+[WARNING] 2024-04-21 15:05:02,257 django.request: 17336 7532 Not Found: /blogapp/articles/
+[WARNING] 2024-04-21 15:05:02,426 django.request: 17336 7532 Not Found: /blogapp/articles/
+[INFO] 2024-04-21 15:05:50,442 django.utils.autoreload: 17336 3964 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\blogapp\urls.py changed, reloading.
+[INFO] 2024-04-21 15:05:52,451 django.utils.autoreload: 11416 12640 Watching for file changes with StatReloader
+[WARNING] 2024-04-21 15:05:53,260 django.request: 11416 336 Not Found: /blogapp/articles/
+[WARNING] 2024-04-21 15:06:14,234 django.request: 11416 336 Not Found: /blogapp
+[WARNING] 2024-04-21 15:06:23,082 django.request: 11416 336 Not Found: /blogapp/articles
+[WARNING] 2024-04-21 15:06:23,562 django.request: 11416 336 Not Found: /blogapp/articles
+[WARNING] 2024-04-21 15:06:25,742 django.request: 11416 336 Not Found: /blogapp/articles/
+[WARNING] 2024-04-21 15:06:26,038 django.request: 11416 336 Not Found: /blogapp/articles/
+[WARNING] 2024-04-21 15:06:39,020 django.request: 11416 336 Not Found: /en/blogapp/articles/1
+[WARNING] 2024-04-21 15:06:39,076 django.request: 11416 13600 Not Found: /blogapp/articles/
+[WARNING] 2024-04-21 15:06:39,208 django.request: 11416 13600 Not Found: /blogapp/articles
+[WARNING] 2024-04-21 15:06:39,547 django.request: 11416 13600 Not Found: /blogapp/articles
+[INFO] 2024-04-21 15:06:53,879 django.utils.autoreload: 11416 12640 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\blogapp\urls.py changed, reloading.
+[INFO] 2024-04-21 15:06:55,672 django.utils.autoreload: 14676 3728 Watching for file changes with StatReloader
+[WARNING] 2024-04-21 15:06:56,631 django.request: 14676 6104 Not Found: /blogapp/articles
+[INFO] 2024-04-21 15:07:13,959 django.utils.autoreload: 14676 3728 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\blogapp\urls.py changed, reloading.
+[INFO] 2024-04-21 15:07:15,817 django.utils.autoreload: 7952 14456 Watching for file changes with StatReloader
+[INFO] 2024-04-21 15:33:19,882 django.utils.autoreload: 7952 14456 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\mysite\urls.py changed, reloading.
+[INFO] 2024-04-21 15:33:21,719 django.utils.autoreload: 13788 10056 Watching for file changes with StatReloader
+[INFO] 2024-04-21 15:33:28,827 django.utils.autoreload: 13788 10056 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\mysite\urls.py changed, reloading.
+[INFO] 2024-04-21 15:33:30,746 django.utils.autoreload: 8252 10264 Watching for file changes with StatReloader
+[INFO] 2024-04-21 15:33:57,799 django.utils.autoreload: 8252 10264 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\mysite\urls.py changed, reloading.
+[INFO] 2024-04-21 15:33:59,666 django.utils.autoreload: 9924 6000 Watching for file changes with StatReloader
+[INFO] 2024-04-21 15:34:09,741 django.utils.autoreload: 9924 6000 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\mysite\urls.py changed, reloading.
+[INFO] 2024-04-21 15:34:11,314 django.utils.autoreload: 2128 5244 Watching for file changes with StatReloader
+[INFO] 2024-04-21 15:34:19,127 django.utils.autoreload: 2128 5244 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\mysite\urls.py changed, reloading.
+[INFO] 2024-04-21 15:34:20,978 django.utils.autoreload: 5940 12064 Watching for file changes with StatReloader
+[INFO] 2024-04-21 15:34:23,441 django.utils.autoreload: 5940 12064 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\mysite\urls.py changed, reloading.
+[INFO] 2024-04-21 15:34:25,153 django.utils.autoreload: 12564 3984 Watching for file changes with StatReloader
+[INFO] 2024-04-21 15:34:28,593 django.utils.autoreload: 12564 3984 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\mysite\urls.py changed, reloading.
+[INFO] 2024-04-21 15:34:30,574 django.utils.autoreload: 15704 12092 Watching for file changes with StatReloader
+[INFO] 2024-04-21 15:34:46,393 django.utils.autoreload: 15704 12092 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\mysite\urls.py changed, reloading.
+[INFO] 2024-04-21 15:34:48,414 django.utils.autoreload: 12004 9612 Watching for file changes with StatReloader
+[INFO] 2024-04-21 15:34:53,112 django.utils.autoreload: 12004 9612 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\mysite\urls.py changed, reloading.
+[INFO] 2024-04-21 15:34:55,041 django.utils.autoreload: 3840 13584 Watching for file changes with StatReloader
+[INFO] 2024-04-21 15:34:57,105 django.utils.autoreload: 3840 13584 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\mysite\urls.py changed, reloading.
+[INFO] 2024-04-21 15:34:58,967 django.utils.autoreload: 11128 17316 Watching for file changes with StatReloader
+[INFO] 2024-04-21 15:35:00,804 django.utils.autoreload: 11128 17316 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\mysite\urls.py changed, reloading.
+[INFO] 2024-04-21 15:35:02,554 django.utils.autoreload: 8184 6644 Watching for file changes with StatReloader
+[INFO] 2024-04-21 15:35:27,163 django.utils.autoreload: 8184 6644 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\mysite\urls.py changed, reloading.
+[INFO] 2024-04-21 15:35:29,087 django.utils.autoreload: 7732 9052 Watching for file changes with StatReloader
+[INFO] 2024-04-21 15:35:56,229 django.utils.autoreload: 7732 9052 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\mysite\urls.py changed, reloading.
+[INFO] 2024-04-21 15:35:58,158 django.utils.autoreload: 16508 7160 Watching for file changes with StatReloader
+[INFO] 2024-04-21 15:36:37,604 django.utils.autoreload: 16508 7160 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\mysite\settings.py changed, reloading.
+[INFO] 2024-04-21 15:37:17,084 django.utils.autoreload: 11416 3300 Watching for file changes with StatReloader
+[INFO] 2024-04-21 22:11:32,613 django.utils.autoreload: 2384 16300 Watching for file changes with StatReloader
+[INFO] 2024-04-21 22:15:36,325 django.utils.autoreload: 13448 9068 Watching for file changes with StatReloader
+[INFO] 2024-04-21 22:16:39,419 django.utils.autoreload: 13448 9068 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\mysite\settings.py changed, reloading.
+[INFO] 2024-04-21 22:16:40,176 django.utils.autoreload: 8948 1580 Watching for file changes with StatReloader
+[INFO] 2024-04-21 22:16:47,612 django.utils.autoreload: 15424 12732 Watching for file changes with StatReloader
+[INFO] 2024-04-21 22:21:55,066 django.utils.autoreload: 8936 13060 Watching for file changes with StatReloader
+[INFO] 2024-04-21 22:32:33,544 django.utils.autoreload: 12372 2256 Watching for file changes with StatReloader
+[INFO] 2024-04-21 22:33:46,569 django.utils.autoreload: 12372 2256 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\mysite\settings.py changed, reloading.
+[INFO] 2024-04-21 22:33:47,852 django.utils.autoreload: 3764 2732 Watching for file changes with StatReloader
+[WARNING] 2024-04-21 22:34:25,777 django.request: 3764 11684 Not Found: /
+[WARNING] 2024-04-21 22:34:25,909 django.request: 3764 15172 Not Found: /favicon.ico
+[ERROR] 2024-04-21 22:34:44,603 django.request: 3764 15172 Internal Server Error: /sitemap.xml
+Traceback (most recent call last):
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\sentry_sdk\integrations\django\views.py", line 38, in sentry_patched_render
+    return old_render(self)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\sentry_sdk\integrations\django\templates.py", line 75, in rendered_content
+    return real_rendered_content.fget(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\response.py", line 74, in resolve_template
+    return get_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: sitemap.xml
+[INFO] 2024-04-21 22:35:54,686 django.utils.autoreload: 3764 2732 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\mysite\urls.py changed, reloading.
+[INFO] 2024-04-21 22:35:55,688 django.utils.autoreload: 12308 9168 Watching for file changes with StatReloader
+[WARNING] 2024-04-21 22:35:56,202 django.request: 12308 7284 Not Found: /
+[WARNING] 2024-04-21 22:36:13,915 django.request: 12308 7284 Not Found: /sitemap
+[WARNING] 2024-04-21 22:36:23,668 django.request: 12308 7284 Not Found: /sitemap.xml
+[INFO] 2024-04-21 22:36:54,385 django.utils.autoreload: 12308 9168 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\mysite\urls.py changed, reloading.
+[INFO] 2024-04-21 22:36:55,767 django.utils.autoreload: 7404 9836 Watching for file changes with StatReloader
+[WARNING] 2024-04-21 22:36:56,452 django.request: 7404 9976 Not Found: /sitemap.xml
+[WARNING] 2024-04-21 22:37:18,618 django.request: 7404 11896 Not Found: /sitemap.xml
+[WARNING] 2024-04-21 22:37:18,756 django.request: 7404 12580 Not Found: /favicon.ico
+[INFO] 2024-04-21 22:39:23,423 django.utils.autoreload: 7404 9836 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\mysite\urls.py changed, reloading.
+[INFO] 2024-04-21 22:39:24,406 django.utils.autoreload: 8456 13964 Watching for file changes with StatReloader
+[WARNING] 2024-04-21 22:39:24,861 django.request: 8456 11192 Not Found: /sitemap.xml
+[INFO] 2024-04-21 22:40:16,184 shopapp.views: 8456 11192 Rendering shop index page
+[WARNING] 2024-04-21 22:40:21,155 django.request: 8456 4276 Not Found: /en/
+[INFO] 2024-04-21 22:43:42,420 django.utils.autoreload: 8456 13964 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\blogapp\sitemap.py changed, reloading.
+[INFO] 2024-04-21 22:43:43,460 django.utils.autoreload: 2800 15932 Watching for file changes with StatReloader
+[WARNING] 2024-04-21 22:43:44,386 django.request: 2800 7528 Not Found: /sitemap.xml
+[WARNING] 2024-04-21 22:43:45,524 django.request: 2800 7528 Not Found: /sitemap.xml
+[INFO] 2024-04-21 22:43:53,972 django.utils.autoreload: 2112 13272 Watching for file changes with StatReloader
+[WARNING] 2024-04-21 22:43:55,117 django.request: 2112 13296 Not Found: /
+[WARNING] 2024-04-21 22:44:08,681 django.request: 2112 13296 Not Found: /sitemap
+[WARNING] 2024-04-21 22:47:04,599 django.request: 2112 13296 Not Found: /sitemap.xml
+[WARNING] 2024-04-21 22:47:29,111 django.request: 2112 7880 Not Found: /favicon.ico
+[WARNING] 2024-04-21 22:47:38,206 django.request: 2112 14068 Not Found: /sitemap.xml
+[INFO] 2024-04-21 22:49:36,795 django.utils.autoreload: 2112 13272 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\mysite\urls.py changed, reloading.
+[INFO] 2024-04-21 22:49:37,711 django.utils.autoreload: 13236 4040 Watching for file changes with StatReloader
+[WARNING] 2024-04-21 22:49:38,189 django.request: 13236 4516 Not Found: /sitemap.xml
+[WARNING] 2024-04-21 22:49:38,993 django.request: 13236 4516 Not Found: /sitemap.xml
+[WARNING] 2024-04-21 22:49:39,560 django.request: 13236 4516 Not Found: /sitemap.xml
+[WARNING] 2024-04-21 22:49:39,749 django.request: 13236 4516 Not Found: /sitemap.xml
+[WARNING] 2024-04-21 22:49:39,920 django.request: 13236 4516 Not Found: /sitemap.xml
+[WARNING] 2024-04-21 22:49:40,106 django.request: 13236 4516 Not Found: /sitemap.xml
+[WARNING] 2024-04-21 22:49:44,821 django.request: 13236 4516 Not Found: /en/sitemap.xml
+[INFO] 2024-04-21 22:50:05,353 django.utils.autoreload: 13236 4040 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\mysite\settings.py changed, reloading.
+[INFO] 2024-04-21 22:50:22,364 django.utils.autoreload: 5688 11928 Watching for file changes with StatReloader
+[INFO] 2024-04-21 22:50:33,832 django.utils.autoreload: 2272 7796 Watching for file changes with StatReloader
+[INFO] 2024-04-21 22:50:52,617 django.utils.autoreload: 2272 7796 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\mysite\settings.py changed, reloading.
+[INFO] 2024-04-21 22:50:53,329 django.utils.autoreload: 10080 5744 Watching for file changes with StatReloader
+[INFO] 2024-04-21 22:51:05,991 django.utils.autoreload: 10080 5744 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\mysite\settings.py changed, reloading.
+[INFO] 2024-04-21 22:51:11,154 django.utils.autoreload: 13036 6816 Watching for file changes with StatReloader
+[INFO] 2024-04-21 22:53:16,501 django.utils.autoreload: 3568 4680 Watching for file changes with StatReloader
+[INFO] 2024-04-21 22:53:32,252 django.utils.autoreload: 4404 10280 Watching for file changes with StatReloader
+[INFO] 2024-04-21 22:53:43,928 django.utils.autoreload: 4404 10280 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\mysite\settings.py changed, reloading.
+[INFO] 2024-04-21 22:53:44,786 django.utils.autoreload: 1608 9168 Watching for file changes with StatReloader
+[ERROR] 2024-04-21 22:53:48,178 django.request: 1608 13588 Internal Server Error: /sitemap.xml
+Traceback (most recent call last):
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\sentry_sdk\integrations\django\views.py", line 38, in sentry_patched_render
+    return old_render(self)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\sentry_sdk\integrations\django\templates.py", line 75, in rendered_content
+    return real_rendered_content.fget(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\response.py", line 74, in resolve_template
+    return get_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: sitemap.xml
+[INFO] 2024-04-21 22:55:33,856 django.utils.autoreload: 1608 9168 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\mysite\settings.py changed, reloading.
+[INFO] 2024-04-21 22:55:34,746 django.utils.autoreload: 8548 10096 Watching for file changes with StatReloader
+[ERROR] 2024-04-21 22:55:37,833 django.request: 8548 7504 Internal Server Error: /sitemap.xml
+Traceback (most recent call last):
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\sentry_sdk\integrations\django\views.py", line 38, in sentry_patched_render
+    return old_render(self)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\sentry_sdk\integrations\django\templates.py", line 75, in rendered_content
+    return real_rendered_content.fget(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\response.py", line 74, in resolve_template
+    return get_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: sitemap.xml
+[ERROR] 2024-04-21 22:55:39,969 django.request: 8548 7504 Internal Server Error: /sitemap.xml
+Traceback (most recent call last):
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\sentry_sdk\integrations\django\views.py", line 38, in sentry_patched_render
+    return old_render(self)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\sentry_sdk\integrations\django\templates.py", line 75, in rendered_content
+    return real_rendered_content.fget(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\response.py", line 74, in resolve_template
+    return get_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: sitemap.xml
+[ERROR] 2024-04-21 22:55:40,715 django.request: 8548 7504 Internal Server Error: /sitemap.xml
+Traceback (most recent call last):
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\sentry_sdk\integrations\django\views.py", line 38, in sentry_patched_render
+    return old_render(self)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\sentry_sdk\integrations\django\templates.py", line 75, in rendered_content
+    return real_rendered_content.fget(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\response.py", line 74, in resolve_template
+    return get_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: sitemap.xml
+[ERROR] 2024-04-21 22:55:40,923 django.request: 8548 7504 Internal Server Error: /sitemap.xml
+Traceback (most recent call last):
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\sentry_sdk\integrations\django\views.py", line 38, in sentry_patched_render
+    return old_render(self)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\sentry_sdk\integrations\django\templates.py", line 75, in rendered_content
+    return real_rendered_content.fget(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\response.py", line 74, in resolve_template
+    return get_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: sitemap.xml
+[ERROR] 2024-04-21 22:55:41,123 django.request: 8548 7504 Internal Server Error: /sitemap.xml
+Traceback (most recent call last):
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\sentry_sdk\integrations\django\views.py", line 38, in sentry_patched_render
+    return old_render(self)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\sentry_sdk\integrations\django\templates.py", line 75, in rendered_content
+    return real_rendered_content.fget(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\response.py", line 74, in resolve_template
+    return get_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: sitemap.xml
+[ERROR] 2024-04-21 22:55:41,436 django.request: 8548 7504 Internal Server Error: /sitemap.xml
+Traceback (most recent call last):
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\sentry_sdk\integrations\django\views.py", line 38, in sentry_patched_render
+    return old_render(self)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\sentry_sdk\integrations\django\templates.py", line 75, in rendered_content
+    return real_rendered_content.fget(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\response.py", line 74, in resolve_template
+    return get_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: sitemap.xml
+[ERROR] 2024-04-21 22:55:41,623 django.request: 8548 7504 Internal Server Error: /sitemap.xml
+Traceback (most recent call last):
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\sentry_sdk\integrations\django\views.py", line 38, in sentry_patched_render
+    return old_render(self)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\sentry_sdk\integrations\django\templates.py", line 75, in rendered_content
+    return real_rendered_content.fget(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\response.py", line 74, in resolve_template
+    return get_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: sitemap.xml
+[ERROR] 2024-04-21 22:55:41,803 django.request: 8548 7504 Internal Server Error: /sitemap.xml
+Traceback (most recent call last):
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\sentry_sdk\integrations\django\views.py", line 38, in sentry_patched_render
+    return old_render(self)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\sentry_sdk\integrations\django\templates.py", line 75, in rendered_content
+    return real_rendered_content.fget(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\response.py", line 74, in resolve_template
+    return get_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: sitemap.xml
+[ERROR] 2024-04-21 22:55:43,497 django.request: 8548 7504 Internal Server Error: /sitemap.xml
+Traceback (most recent call last):
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\sentry_sdk\integrations\django\views.py", line 38, in sentry_patched_render
+    return old_render(self)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\sentry_sdk\integrations\django\templates.py", line 75, in rendered_content
+    return real_rendered_content.fget(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\response.py", line 74, in resolve_template
+    return get_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: sitemap.xml
+[ERROR] 2024-04-21 22:55:43,687 django.request: 8548 7504 Internal Server Error: /sitemap.xml
+Traceback (most recent call last):
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\sentry_sdk\integrations\django\views.py", line 38, in sentry_patched_render
+    return old_render(self)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\sentry_sdk\integrations\django\templates.py", line 75, in rendered_content
+    return real_rendered_content.fget(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\response.py", line 74, in resolve_template
+    return get_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: sitemap.xml
+[ERROR] 2024-04-21 22:55:43,872 django.request: 8548 7504 Internal Server Error: /sitemap.xml
+Traceback (most recent call last):
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\sentry_sdk\integrations\django\views.py", line 38, in sentry_patched_render
+    return old_render(self)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\sentry_sdk\integrations\django\templates.py", line 75, in rendered_content
+    return real_rendered_content.fget(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\response.py", line 74, in resolve_template
+    return get_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: sitemap.xml
+[ERROR] 2024-04-21 22:55:44,098 django.request: 8548 7504 Internal Server Error: /sitemap.xml
+Traceback (most recent call last):
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\sentry_sdk\integrations\django\views.py", line 38, in sentry_patched_render
+    return old_render(self)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\sentry_sdk\integrations\django\templates.py", line 75, in rendered_content
+    return real_rendered_content.fget(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\response.py", line 74, in resolve_template
+    return get_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: sitemap.xml
+[INFO] 2024-04-21 22:57:35,237 django.utils.autoreload: 8548 10096 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\mysite\settings.py changed, reloading.
+[INFO] 2024-04-21 22:57:36,849 django.utils.autoreload: 7996 12416 Watching for file changes with StatReloader
+[INFO] 2024-04-21 22:58:34,700 django.utils.autoreload: 7996 12416 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\mysite\settings.py changed, reloading.
+[INFO] 2024-04-21 22:58:35,540 django.utils.autoreload: 11996 336 Watching for file changes with StatReloader
+[INFO] 2024-04-21 22:58:48,278 django.utils.autoreload: 11996 336 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\mysite\settings.py changed, reloading.
+[INFO] 2024-04-21 22:58:49,047 django.utils.autoreload: 3868 8868 Watching for file changes with StatReloader
+[INFO] 2024-04-21 22:58:57,628 django.utils.autoreload: 3868 8868 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\mysite\settings.py changed, reloading.
+[INFO] 2024-04-21 22:58:58,369 django.utils.autoreload: 3728 10844 Watching for file changes with StatReloader
+[INFO] 2024-04-21 22:59:59,211 django.utils.autoreload: 3728 10844 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\mysite\settings.py changed, reloading.
+[INFO] 2024-04-21 22:59:59,949 django.utils.autoreload: 9900 15476 Watching for file changes with StatReloader
+[INFO] 2024-04-21 23:01:55,104 django.utils.autoreload: 9900 15476 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\mysite\settings.py changed, reloading.
+[INFO] 2024-04-21 23:01:55,929 django.utils.autoreload: 10800 9580 Watching for file changes with StatReloader
+[INFO] 2024-04-21 23:02:06,978 django.utils.autoreload: 12580 12004 Watching for file changes with StatReloader
+[INFO] 2024-04-21 23:03:08,831 django.utils.autoreload: 12580 12004 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\mysite\settings.py changed, reloading.
+[INFO] 2024-04-21 23:03:09,716 django.utils.autoreload: 16824 16828 Watching for file changes with StatReloader
+[INFO] 2024-04-21 23:03:16,895 django.utils.autoreload: 17156 17152 Watching for file changes with StatReloader
+[INFO] 2024-04-21 23:03:32,420 django.utils.autoreload: 16944 16936 Watching for file changes with StatReloader
+[INFO] 2024-04-21 23:06:42,603 django.utils.autoreload: 6560 4136 Watching for file changes with StatReloader
+[INFO] 2024-04-21 23:10:51,595 django.utils.autoreload: 13128 7372 Watching for file changes with StatReloader
+[INFO] 2024-04-21 23:12:10,953 django.utils.autoreload: 13128 7372 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\mysite\settings.py changed, reloading.
+[INFO] 2024-04-21 23:12:15,695 django.utils.autoreload: 7644 17136 Watching for file changes with StatReloader
+[INFO] 2024-04-21 23:13:51,452 django.utils.autoreload: 7644 17136 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\mysite\settings.py changed, reloading.
+[INFO] 2024-04-21 23:13:52,222 django.utils.autoreload: 15212 6416 Watching for file changes with StatReloader
+[INFO] 2024-04-21 23:14:14,119 django.utils.autoreload: 15212 6416 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\18_Data_export_and_import\mysite\mysite\settings.py changed, reloading.
+[INFO] 2024-04-21 23:14:14,916 django.utils.autoreload: 14056 7364 Watching for file changes with StatReloader
+[ERROR] 2024-04-21 23:14:21,389 django.request: 14056 13964 Internal Server Error: /sitemap.xml
+Traceback (most recent call last):
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 329, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such table: django_site
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\sentry_sdk\integrations\django\views.py", line 84, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\contrib\sitemaps\views.py", line 23, in inner
+    response = func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\contrib\sitemaps\views.py", line 100, in sitemap
+    req_site = get_current_site(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\contrib\sites\shortcuts.py", line 16, in get_current_site
+    return Site.objects.get_current(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\contrib\sites\models.py", line 59, in get_current
+    return self._get_site_by_id(site_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\contrib\sites\models.py", line 30, in _get_site_by_id
+    site = self.get(pk=site_id)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\db\models\query.py", line 645, in get
+    num = len(clone)
+          ^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\db\models\query.py", line 382, in __len__
+    self._fetch_all()
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\db\models\query.py", line 1928, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\debug_toolbar\panels\sql\tracking.py", line 235, in execute
+    return self._record(super().execute, sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\debug_toolbar\panels\sql\tracking.py", line 160, in _record
+    return method(sql, params)
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\sentry_sdk\integrations\django\__init__.py", line 644, in execute
+    result = real_execute(self, sql, params)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 329, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such table: django_site
+[INFO] 2024-04-21 23:15:00,148 django.utils.autoreload: 16012 4376 Watching for file changes with StatReloader
+[INFO] 2024-04-26 15:14:24,524 django.utils.autoreload: 13352 20084 Watching for file changes with StatReloader
+[WARNING] 2024-04-26 15:14:31,897 django.request: 13352 6716 Not Found: /
+[WARNING] 2024-04-26 15:14:32,120 django.request: 13352 6716 Not Found: /favicon.ico
+[INFO] 2024-04-26 15:14:36,050 shopapp.views: 13352 6716 Rendering shop index page
+[INFO] 2024-04-26 15:18:04,914 django.utils.autoreload: 13352 20084 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\19_Optimization_with_caching\mysite\mysite\settings.py changed, reloading.
+[INFO] 2024-04-26 15:18:06,947 django.utils.autoreload: 13196 20236 Watching for file changes with StatReloader
+[INFO] 2024-04-26 15:19:26,057 django.utils.autoreload: 13196 20236 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\19_Optimization_with_caching\mysite\accounts\views.py changed, reloading.
+[INFO] 2024-04-26 15:19:27,893 django.utils.autoreload: 14788 3272 Watching for file changes with StatReloader
+[INFO] 2024-04-26 15:19:33,151 django.utils.autoreload: 14788 3272 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\19_Optimization_with_caching\mysite\accounts\views.py changed, reloading.
+[INFO] 2024-04-26 15:19:34,809 django.utils.autoreload: 312 11728 Watching for file changes with StatReloader
+[INFO] 2024-04-26 15:19:50,873 django.utils.autoreload: 312 11728 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\19_Optimization_with_caching\mysite\accounts\views.py changed, reloading.
+[INFO] 2024-04-26 15:19:52,530 django.utils.autoreload: 14540 16872 Watching for file changes with StatReloader
+[WARNING] 2024-04-26 15:20:08,453 django.request: 14540 16728 Not Found: /
+[INFO] 2024-04-26 15:20:12,182 shopapp.views: 14540 16728 Rendering shop index page
+[INFO] 2024-04-26 15:20:13,061 shopapp.views: 14540 16728 Rendering shop index page
+[INFO] 2024-04-26 15:20:13,250 shopapp.views: 14540 16728 Rendering shop index page
+[INFO] 2024-04-26 15:20:13,464 shopapp.views: 14540 16728 Rendering shop index page
+[INFO] 2024-04-26 15:20:13,653 shopapp.views: 14540 16728 Rendering shop index page
+[INFO] 2024-04-26 15:20:13,812 shopapp.views: 14540 16728 Rendering shop index page
+[INFO] 2024-04-26 15:20:13,962 shopapp.views: 14540 16728 Rendering shop index page
+[INFO] 2024-04-26 15:20:14,111 shopapp.views: 14540 16728 Rendering shop index page
+[INFO] 2024-04-26 15:20:14,281 shopapp.views: 14540 16728 Rendering shop index page
+[WARNING] 2024-04-26 15:20:32,604 django.request: 14540 16728 Not Found: /accounts/
+[INFO] 2024-04-26 15:21:03,983 django.utils.autoreload: 14540 16872 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\19_Optimization_with_caching\mysite\accounts\views.py changed, reloading.
+[INFO] 2024-04-26 15:21:05,906 django.utils.autoreload: 11904 20276 Watching for file changes with StatReloader
+[INFO] 2024-04-26 15:21:52,384 django.utils.autoreload: 11904 20276 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\19_Optimization_with_caching\mysite\accounts\views.py changed, reloading.
+[INFO] 2024-04-26 15:21:54,299 django.utils.autoreload: 2412 6076 Watching for file changes with StatReloader
+[INFO] 2024-04-26 15:22:04,767 django.utils.autoreload: 2412 6076 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\19_Optimization_with_caching\mysite\accounts\views.py changed, reloading.
+[INFO] 2024-04-26 15:22:06,369 django.utils.autoreload: 12872 11568 Watching for file changes with StatReloader
+[INFO] 2024-04-26 15:22:22,848 django.utils.autoreload: 12872 11568 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\19_Optimization_with_caching\mysite\accounts\views.py changed, reloading.
+[INFO] 2024-04-26 15:22:24,510 django.utils.autoreload: 18836 17172 Watching for file changes with StatReloader
+[INFO] 2024-04-26 15:24:07,967 django.utils.autoreload: 18836 17172 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\19_Optimization_with_caching\mysite\shopapp\urls.py changed, reloading.
+[INFO] 2024-04-26 15:24:09,903 django.utils.autoreload: 2740 2872 Watching for file changes with StatReloader
+[INFO] 2024-04-26 15:24:19,395 django.utils.autoreload: 2740 2872 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\19_Optimization_with_caching\mysite\shopapp\urls.py changed, reloading.
+[INFO] 2024-04-26 15:24:21,134 django.utils.autoreload: 8288 17568 Watching for file changes with StatReloader
+[INFO] 2024-04-26 15:24:35,480 django.utils.autoreload: 8288 17568 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\19_Optimization_with_caching\mysite\shopapp\urls.py changed, reloading.
+[INFO] 2024-04-26 15:24:37,366 django.utils.autoreload: 10484 9800 Watching for file changes with StatReloader
+[INFO] 2024-04-26 15:25:01,370 shopapp.views: 10484 15188 Rendering shop index page
+[INFO] 2024-04-26 15:28:51,772 django.utils.autoreload: 10484 9800 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\19_Optimization_with_caching\mysite\shopapp\views.py changed, reloading.
+[INFO] 2024-04-26 15:28:53,629 django.utils.autoreload: 3240 7924 Watching for file changes with StatReloader
+[INFO] 2024-04-26 15:28:57,283 django.utils.autoreload: 3240 7924 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\19_Optimization_with_caching\mysite\shopapp\views.py changed, reloading.
+[INFO] 2024-04-26 15:28:59,177 django.utils.autoreload: 9432 6988 Watching for file changes with StatReloader
+[INFO] 2024-04-26 15:29:01,454 django.utils.autoreload: 9432 6988 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\19_Optimization_with_caching\mysite\shopapp\views.py changed, reloading.
+[INFO] 2024-04-26 15:29:02,820 django.utils.autoreload: 17700 5128 Watching for file changes with StatReloader
+[INFO] 2024-04-26 15:29:04,517 django.utils.autoreload: 17700 5128 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\19_Optimization_with_caching\mysite\shopapp\views.py changed, reloading.
+[INFO] 2024-04-26 15:29:05,712 django.utils.autoreload: 4588 17796 Watching for file changes with StatReloader
+[INFO] 2024-04-26 15:29:09,702 django.utils.autoreload: 4588 17796 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\19_Optimization_with_caching\mysite\shopapp\views.py changed, reloading.
+[INFO] 2024-04-26 15:29:11,020 django.utils.autoreload: 15172 20288 Watching for file changes with StatReloader
+[INFO] 2024-04-26 15:29:13,591 django.utils.autoreload: 15172 20288 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\19_Optimization_with_caching\mysite\shopapp\views.py changed, reloading.
+[INFO] 2024-04-26 15:29:15,132 django.utils.autoreload: 6404 6256 Watching for file changes with StatReloader
+[INFO] 2024-04-26 15:29:19,760 django.utils.autoreload: 6404 6256 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\19_Optimization_with_caching\mysite\shopapp\views.py changed, reloading.
+[INFO] 2024-04-26 15:29:21,597 django.utils.autoreload: 15268 14724 Watching for file changes with StatReloader
+[INFO] 2024-04-26 15:29:24,378 django.utils.autoreload: 15268 14724 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\19_Optimization_with_caching\mysite\shopapp\views.py changed, reloading.
+[INFO] 2024-04-26 15:29:26,129 django.utils.autoreload: 5472 5000 Watching for file changes with StatReloader
+[INFO] 2024-04-26 15:29:31,092 django.utils.autoreload: 5472 5000 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\19_Optimization_with_caching\mysite\shopapp\views.py changed, reloading.
+[INFO] 2024-04-26 15:29:33,006 django.utils.autoreload: 10976 4532 Watching for file changes with StatReloader
+[INFO] 2024-04-26 15:29:36,134 django.utils.autoreload: 10976 4532 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\19_Optimization_with_caching\mysite\shopapp\views.py changed, reloading.
+[INFO] 2024-04-26 15:29:38,269 django.utils.autoreload: 10540 13568 Watching for file changes with StatReloader
+[INFO] 2024-04-26 15:29:48,137 django.utils.autoreload: 10540 13568 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\19_Optimization_with_caching\mysite\shopapp\views.py changed, reloading.
+[INFO] 2024-04-26 15:29:50,000 django.utils.autoreload: 11400 11904 Watching for file changes with StatReloader
+[INFO] 2024-04-26 15:30:09,429 django.utils.autoreload: 11400 11904 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\19_Optimization_with_caching\mysite\shopapp\views.py changed, reloading.
+[INFO] 2024-04-26 15:30:11,085 django.utils.autoreload: 3312 5472 Watching for file changes with StatReloader
+[INFO] 2024-04-26 15:30:20,996 django.utils.autoreload: 3312 5472 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\19_Optimization_with_caching\mysite\shopapp\views.py changed, reloading.
+[INFO] 2024-04-26 15:30:22,619 django.utils.autoreload: 18808 17260 Watching for file changes with StatReloader
+[INFO] 2024-04-26 15:30:57,835 django.utils.autoreload: 18808 17260 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\19_Optimization_with_caching\mysite\shopapp\views.py changed, reloading.
+[INFO] 2024-04-26 15:30:59,816 django.utils.autoreload: 19680 15704 Watching for file changes with StatReloader
+[INFO] 2024-04-26 15:32:10,600 django.utils.autoreload: 19680 15704 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\19_Optimization_with_caching\mysite\shopapp\views.py changed, reloading.
+[INFO] 2024-04-26 15:32:12,678 django.utils.autoreload: 20164 9692 Watching for file changes with StatReloader
+[INFO] 2024-04-26 15:32:53,233 django.utils.autoreload: 20164 9692 C:\Users\kurba\PycharmProjects\DjangoShop-development-stages\19_Optimization_with_caching\mysite\shopapp\urls.py changed, reloading.
+[INFO] 2024-04-26 15:32:55,248 django.utils.autoreload: 1960 5544 Watching for file changes with StatReloader
+[INFO] 2024-04-26 15:33:49,366 django.utils.autoreload: 8400 15584 Watching for file changes with StatReloader
+[INFO] 2024-04-26 15:33:52,247 shopapp.views: 8400 20276 Rendering shop index page
+[INFO] 2024-04-26 15:37:11,327 shopapp.views: 8400 7208 Rendering shop index page

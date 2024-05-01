@@ -1,3 +1,5 @@
+from random import random
+
 from django.contrib.auth.decorators import login_required, permission_required, user_passes_test
 from django.contrib.auth.forms import UserCreationForm
 from django.contrib.auth.mixins import LoginRequiredMixin
@@ -9,12 +11,32 @@ from django.contrib.auth import authenticate, login, logout
 from django.urls import reverse, reverse_lazy
 from django.views import View
 from django.contrib.auth.decorators import login_required
+from django.views.decorators.cache import cache_page
 
 from .models import User
 from django.views.generic import TemplateView, CreateView, ListView, DetailView
 
 from .forms import UserForm, ProfileForm
 
+from django.utils.translation import gettext as __, gettext_lazy as _, ngettext
+
+
+class HelloView(View):
+    welcome_message = _('welcome hello world')
+
+    def get(self, request: HttpRequest) -> HttpResponse:
+        items_str = request.GET.get('items') or 0
+        items = int(items_str)
+        products_line = ngettext(
+            'one product',
+            '{count} products',
+            items
+        )
+        product_line = products_line.format(count=items)
+        return HttpResponse(
+            f'<h1>{self.welcome_message}</h1>'
+            f'<h2>{product_line}</h2>'
+        )
 
 def login_view(request: HttpRequest) -> HttpResponse:
     if request.method == 'GET':
@@ -81,9 +103,10 @@ def set_cookies_view(request: HttpRequest) -> HttpResponse:
     return response
 
 
+@cache_page(60 +2)
 def get_cookies_view(request: HttpRequest) -> HttpResponse:
     value = request.COOKIES.get('fizz', 'default_value')
-    return HttpResponse(f'Cookie value: fizz={value!r}')
+    return HttpResponse(f'Cookie value: fizz={value!r} + {random()}')
 
 
 @permission_required('accounts.view_profile', raise_exception=True)

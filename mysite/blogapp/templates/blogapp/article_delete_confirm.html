@@ -1,0 +1,20 @@
+{% extends 'accounts/base.html' %}
+
+{% block title %}
+    Delete Article
+{% endblock %}
+
+{% block body %}
+	<div class="fixed-container-login">
+	    <h2>Are you sure you want to delete this article?</h2>
+	    <form method="POST">
+	        {% csrf_token %}
+		    <div class="btn-delete">
+			    <button type="submit">Delete</button>
+		    </div>
+		    <div class="back-to-list">
+			    <a href="{{ object.get_absolute_url }}">No, take me back</a>
+		    </div>
+	    </form>
+	</div>
+{% endblock %}

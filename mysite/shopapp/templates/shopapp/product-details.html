@@ -1,50 +1,60 @@
 {% extends 'accounts/base.html' %}
 {% load static %}
+{% load i18n %} <!-- Load internationalization tags -->
 <link rel="stylesheet" href="{% static 'css/main.css' %}">
 
 {% block title %}
-	Product #{{ product.pk }}
+		{% translate 'Product'%}: #{{ product.pk }}
 {% endblock %}
 
 {% block body %}
     <div class="container">
-        <h1><strong>{{ product.name }}</strong></h1>
+        <h1><strong>{% trans product.name %}</strong></h1>
         <div class="row">
             {% if product.preview %}
+	         <div class="product-details">
+					{% trans 'There is a preview image available for this product' %}
+	         </div><br>
                 <img src="{{ product.preview.url }}"  alt="{{ product.preview.name }}" class="product-image">
             {% endif %}<br>
             <div class="product-details">
-
                  <h4 class="card-title product-title">
-                     Description: <em>{{ product.description }}</em>
+                     {% trans 'Description' %}: <em>{{ product.description }}</em>
                  </h4>
             </div><br>
-
             <div class="product-details">
-
                 <h4 class="card-title product-title">
-                     Price:<em> {{ product.price }}</em>
+	                {% trans 'Price' %}:<em> {{ product.price }}</em>
                 </h4>
             </div><br>
-
             <div class="product-details ">
                      <h4 class="card-title product-title" > Discount: <em>{{ product.discount }}%</em></h4>
             </div><br>
             <div class="product-details">
-	            <h4 class="card-title product-title">Archived:
-                    <em> {{ product.archived }}</em>
+	            <h4 class="card-title product-title">
+		            {% trans 'Archived'  %}: <em> {{ product.archived }}</em>
 	            </h4>
             </div><br>
 
         </div>
         <div>
-            <a href="{% url 'shopapp:product_update' pk=product.pk %}">Update product</a>
-        </div><br>
-        <div>
-            <a href="{% url 'shopapp:product_delete' pk=product.pk %}">Archive product</a>
-        </div><br>
-        <div>
-            <a href="{% url 'shopapp:products_list' %}">Back to products List</a>
-        </div><br>
+	        {% if perms.shopapp.can_create_product %}
+			    {% url 'shopapp:product_create' as create_product_url %}
+			    {% url 'shopapp:product_update' pk=product.pk as update_product_url %}
+			    {% url 'shopapp:product_delete' pk=product.pk as delete_product_url %}
+			        {% blocktranslate %}
+			            <div class="back-to-list">
+			                  <a href="{{create_product_url}}" >Create a New One</a>
+			            </div>
+
+			            <div class="back-to-list">
+			                  <a href="{{update_product_url}}" >Update product</a>
+			            </div>
+			            <div class="back-to-list">
+			                 <a href="{{delete_product_url}}">Archive product</a>
+			            </div>
+			        {% endblocktranslate %}
+	        {% endif %}
+         </div>
     </div>
 {% endblock %}

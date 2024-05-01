@@ -1,0 +1,18 @@
+
+
+{% extends 'accounts/base.html' %}
+
+{% block title %}
+   Update Article
+{% endblock %}
+
+{% block body %}
+	<div class="fixed-container-login">
+	   <h2>Update Article</h2>
+	   <form method="post">
+	      {% csrf_token %}
+	      {{ form.as_p }}
+	      <button type="submit">Save changes</button>
+	   </form>
+	</div>
+{% endblock %}

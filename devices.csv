@@ -1,0 +1,3 @@
+name,description,price,discount,created_by_id
+"Laptop 13", "A smaller one", 2199.00,3,1
+"Laptop 15", "One more big", 2599.00,5,1

@@ -34,6 +34,7 @@
 		<div class="header-links">
 			<a href="{% url 'accounts:login' %}">Login</a>
 			<a href="{% url 'accounts:register' %}">Registration</a>
+			<a href="{% url 'blogapp:articles' %}">Blog</a>
 			<a href="{% url 'accounts:about-me' %}">About me</a>
 			<a href="{% url 'accounts:logout' %}">Logout</a>
 		</div>
@@ -46,7 +47,14 @@
 {% endblock %}
 </div>
 {% block footer %}
-
+<footer>
+	<br>
+    <div class="footer">
+        <div class="fixed-container">
+            <p> Company © 2024. All rights reserved.</p>
+        </div>
+    </div>
+</footer>
 {% endblock %}
 </body>
 </html>

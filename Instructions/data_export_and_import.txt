@@ -1,0 +1,26 @@
+# This is a Django management command for dumping data from 'Product' model of 'shopapp' app
+# This command will output a JSON representation of all instances of the specified model (shopapp.Product in this case)
+# The output is redirected to a JSON file named 'shopapp-products-fixtures.json' inside the project directory
+
+# json:
+python manage.py dumpdata shopapp.Product > shopapp-products-fixtures.json
+
+# xml:
+python manage.py dumpdata --formt xml shopapp.Product > shopapp-products-fixtures.xml
+
+# The loaddata command is used here to load data from the 'shopapp-products-fixtures.json'
+# file into the database. This is especially useful when you want to populate your database
+# with some pre-existing data. These operations are important when you want to backup your data
+# or move data between environments (like from development to production or vice-versa).
+
+# The loaddata command:
+python manage.py loaddata shopapp-products-fixtures.json
+
+
+# for devices.csv
+# command:
+$ curl -X POST -F 'file=@devices.csv' http://127.0.0.1:8000/shop/api/products/upload_csv/
+
+# response:
+[{"id":17,"name":"Laptop 13","description":" \"A smaller one\"","price":"2199.00","discount":3,"created_at":"2024-04-20T23:04:11.570842Z","archived":false,"preview":null,"created_by":"1"},{"id":18,"name":"Laptop 15","description":" \"One more big\"","price":"2599.00","discount":5,"created_at":"2024-04-20T23:04:11.570842Z","archived":false,"preview":null,"created_by":"1"}]
+

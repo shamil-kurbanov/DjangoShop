@@ -1,0 +1,73 @@
+{% extends 'accounts/base.html' %}
+{% load i18n %}
+{% load static %}
+<link rel="stylesheet" href="{% static 'css/main.css' %}">
+
+
+{% block title %}
+	{% translate 'Articles' %}
+{% endblock %}
+
+{% block extra_css %}
+
+{% endblock %}
+
+{% block body %}
+  <div class="container">
+    <h1 class="">{% translate 'Articles'%}</h1>
+        <div>
+          {% if articles %}
+	        <div>
+		         {% blocktranslate count articles_count=articles|length%}
+		            <h3>There is only one article:</h3>
+		        {% plural %}
+		            <h3>There are {{ articles_count }} articles:</h3>
+		        {% endblocktranslate %}
+	        </div>
+            {% for article in articles %}
+              <div>
+                  <div>
+						<div class="product-details">
+							<h2 class="card-title product-title">
+								<a href="{% url 'blogapp:article_details' pk=article.pk %}" class="text-dark">{{ article.title }}</a>
+							</h2>
+						</div>
+	                   <p>{% translate 'Publication date:'%} <b>{{ article.pub_date }}</b></p>
+	                   <p>{% translate 'Author:'%} <b>{% firstof article.author.user user.username %}</b></p>
+	                   <p>{% translate 'Category:'%} <b>{{ article.category.name }}</b></p>
+	                  <p>Tags:
+						    {% for tag in article.tags.all %}
+						      {{ tag.name }}
+						    {% endfor %}
+	                  </p>
+	                  <br>
+                  </div>
+              </div>
+            {% endfor %}
+
+	        {% if perms.shopapp.can_create_product %}
+	          <div class="back-to-list">
+	            <a href="{% url 'blogapp:article_create' %}" > {% trans "Create a New Article"%}</a>
+	          </div>
+            {% endif %}
+
+          {% else %}
+            <div>
+                <div>
+	                {% if perms.shopapp.can_create_product %}
+	                    {% url 'blogapp:article_create' as create_article_url%}
+	                        {% blocktranslate %}
+	                            <h3>No articles found</h3>
+	                            <div class="back-to-list">
+	                                <a href="{{create_article_url}}"> Create a New One</a>
+	                            </div>
+	                        {% endblocktranslate %}
+	                {% endif %}
+                </div>
+            </div>
+          {% endif %}
+        </div>
+
+
+  </div>
+{% endblock %}

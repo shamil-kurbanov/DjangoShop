@@ -18,9 +18,14 @@
       {% empty %}
         No products here
       {% endfor %}
-
     </ul>
   </div>
+
+<div>
+	<strong>
+		You have {{ items }} cherr{{ items|pluralize:"y,es" }}
+	</strong>
+</div>
 
   <div>
     Time running: {{ time_running }}

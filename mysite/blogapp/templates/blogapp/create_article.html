@@ -1,0 +1,14 @@
+{% extends 'accounts/base.html' %}
+{% load static %}
+<link rel="stylesheet" href="{% static 'css/main.css' %}">
+
+{% block body %}
+  <div class="fixed-container-login">
+    <h1 class="">Create Article</h1>
+    <form method="POST">
+        {% csrf_token %}
+        {{ form.as_p }}
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+  </div>
+{% endblock %}
